@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Il Quaderno delle Formule</title>
+
+<style>
+:root{
+  --ink:#171a1f;
+  --ink-soft:#454b54;
+  --ink-faint:#7c828c;
+  --paper:#f4f5f1;
+  --paper-raised:#fbfbf9;
+  --line:#dcdcd3;
+  --line-soft:#e8e8e1;
+  --accent:#7a2e38;
+  --accent-soft:#f2e3e1;
+  --accent-ink:#5c1f28;
+  --brass:#a9812f;
+  --code-bg:#eceee7;
+  --good:#3d7a4f;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ink:#ece9e2;
+    --ink-soft:#c7c3ba;
+    --ink-faint:#8f8b83;
+    --paper:#17181a;
+    --paper-raised:#1e2023;
+    --line:#33342f;
+    --line-soft:#2a2b27;
+    --accent:#e0949c;
+    --accent-soft:#2c1e20;
+    --accent-ink:#f0b7bd;
+    --brass:#d4ae63;
+    --code-bg:#232420;
+    --good:#7fbf8e;
+  }
+}
+:root[data-theme="dark"]{
+  --ink:#ece9e2;
+  --ink-soft:#c7c3ba;
+  --ink-faint:#8f8b83;
+  --paper:#17181a;
+  --paper-raised:#1e2023;
+  --line:#33342f;
+  --line-soft:#2a2b27;
+  --accent:#e0949c;
+  --accent-soft:#2c1e20;
+  --accent-ink:#f0b7bd;
+  --brass:#d4ae63;
+  --code-bg:#232420;
+  --good:#7fbf8e;
+}
+
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3{
+  font-family:"Newsreader", Georgia, serif;
+  text-wrap:balance;
+  font-weight:600;
+  color:var(--ink);
+}
+.mono{font-family:"IBM Plex Mono", ui-monospace, "SF Mono", monospace;}
+a{color:var(--accent-ink);}
+
+/* ---------- top bar ---------- */
+.topbar{
+  position:sticky; top:0; z-index:20;
+  background:color-mix(in srgb, var(--paper) 92%, transparent);
+  backdrop-filter:blur(6px);
+  border-bottom:1px solid var(--line);
+}
+.topbar-inner{
+  max-width:760px; margin:0 auto;
+  padding:14px 20px;
+  display:flex; flex-direction:column; gap:10px;
+}
+.topbar-title{
+  font-family:"Newsreader", Georgia, serif;
+  font-size:1rem; font-weight:600;
+  color:var(--ink);
+}
+.topbar-title .mono{color:var(--accent-ink); font-size:.85em;}
+.nav-row{
+  display:flex; gap:6px; overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+.nav-row::-webkit-scrollbar{display:none;}
+.nav-pill{
+  flex:0 0 auto;
+  font-size:.78rem;
+  padding:6px 12px;
+  border-radius:100px;
+  border:1px solid var(--line);
+  color:var(--ink-soft);
+  text-decoration:none;
+  white-space:nowrap;
+  background:var(--paper-raised);
+}
+.nav-pill:hover{border-color:var(--accent); color:var(--accent-ink);}
+
+/* ---------- layout ---------- */
+.wrap{max-width:760px; margin:0 auto; padding:0 20px;}
+header.hero{
+  padding-block:38px 28px;
+  border-bottom:1px solid var(--line);
+}
+header.hero .eyebrow{
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.75rem; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--accent-ink);
+  margin:0 0 10px;
+}
+header.hero h1{font-size:2rem; margin:0 0 12px; line-height:1.15;}
+header.hero p{color:var(--ink-soft); font-size:1rem; max-width:58ch; margin:0;}
+
+section.step{
+  padding-block:40px;
+  border-bottom:1px solid var(--line);
+  scroll-margin-top:96px;
+}
+section.step:last-of-type{border-bottom:none;}
+
+.step-head{display:flex; align-items:baseline; gap:14px; margin-bottom:6px;}
+.step-num{
+  font-family:"Newsreader", serif; font-weight:600;
+  font-size:1.5rem; color:var(--accent);
+  flex:0 0 auto;
+}
+.step-head h2{font-size:1.4rem; margin:0;}
+.step-sub{color:var(--ink-faint); font-size:.9rem; margin:0 0 22px; max-width:60ch;}
+
+p{max-width:62ch;}
+h3.substep{
+  font-size:1rem; font-family:"IBM Plex Sans", sans-serif; font-weight:600;
+  color:var(--ink); margin:26px 0 8px;
+  padding-top:2px;
+}
+
+/* ---------- formula card ---------- */
+.formula{
+  background:var(--paper-raised);
+  border:1px solid var(--line);
+  border-left:3px solid var(--brass);
+  border-radius:6px;
+  padding:16px 18px;
+  margin:14px 0 16px;
+}
+.formula .f-line{
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.98rem;
+  color:var(--ink);
+  overflow-x:auto;
+  white-space:pre;
+}
+.formula .f-note{
+  font-size:.88rem;
+  color:var(--ink-soft);
+  margin-top:8px;
+  max-width:60ch;
+}
+
+/* ---------- number chips (real project results) ---------- */
+.result{
+  display:inline-flex; align-items:baseline; gap:6px;
+  background:var(--accent-soft);
+  border-radius:5px;
+  padding:2px 8px;
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.92em;
+  color:var(--accent-ink);
+}
+
+.callout{
+  background:var(--paper-raised);
+  border:1px solid var(--line-soft);
+  border-radius:8px;
+  padding:14px 16px;
+  margin:16px 0;
+  font-size:.92rem;
+  color:var(--ink-soft);
+}
+.callout .label{
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.72rem; letter-spacing:.06em; text-transform:uppercase;
+  color:var(--brass);
+  display:block; margin-bottom:6px;
+}
+
+.example{
+  border-top:1px dashed var(--line);
+  margin-top:18px;
+  padding-top:14px;
+  font-size:.9rem;
+  color:var(--ink-soft);
+}
+.example .label{
+  font-family:"IBM Plex Mono", monospace;
+  font-size:.72rem; letter-spacing:.06em; text-transform:uppercase;
+  color:var(--good);
+  display:block; margin-bottom:6px;
+}
+
+/* ---------- glossary ---------- */
+.glossary dt{
+  font-family:"IBM Plex Mono", monospace;
+  font-weight:600; color:var(--accent-ink);
+  margin-top:14px;
+}
+.glossary dd{margin:3px 0 0; color:var(--ink-soft); max-width:60ch;}
+
+footer{
+  padding-block:36px 50px;
+  color:var(--ink-faint);
+  font-size:.85rem;
+}
+footer a{color:var(--ink-faint); text-decoration:underline;}
+
+@media (max-width:480px){
+  header.hero h1{font-size:1.6rem;}
+  .step-num{font-size:1.2rem;}
+  .step-head h2{font-size:1.2rem;}
+}
+</style>
+</head>
+<body>
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="topbar-title">Il Quaderno delle Formule <span class="mono">— hotel-revenue-analytics</span></div>
+    <div class="nav-row">
+      <a class="nav-pill" href="#step0">0 · Generazione</a>
+      <a class="nav-pill" href="#step1">1 · Pulizia</a>
+      <a class="nav-pill" href="#step2">2 · RevPAR</a>
+      <a class="nav-pill" href="#step3">3 · Modello</a>
+      <a class="nav-pill" href="#step4">4 · Test causale</a>
+      <a class="nav-pill" href="#glossario">Glossario</a>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+
+<header class="hero">
+  <p class="eyebrow">Compagno di studio · logiop/hotel-revenue-analytics</p>
+  <h1>Cosa c'è dietro ogni numero del progetto</h1>
+  <p>Hai già pushato il codice. Questa pagina spiega, step per step, ogni formula e ogni scelta statistica che ci sta dietro — con i numeri veri che sono usciti dal tuo dataset, non esempi astratti. Tienila aperta mentre riguardi <span class="mono">report.md</span> e gli script in <span class="mono">scripts/</span>.</p>
+</header>
+
+<section class="step" id="step0">
+  <div class="step-head">
+    <span class="step-num mono">0</span>
+    <h2>Generazione dei dati</h2>
+  </div>
+  <p class="step-sub"><span class="mono">scripts/generate_data.py</span></p>
+
+  <h3 class="substep">Perché un seed fisso</h3>
+  <div class="formula">
+    <div class="f-line">RNG = np.random.default_rng(42)</div>
+    <div class="f-note">Un generatore di numeri "casuali" in realtà segue una sequenza determinata dal seed. Fissarlo a 42 significa che ogni volta che rilanci lo script, ottieni <em>esattamente</em> lo stesso dataset — è quello che ti ha permesso di rigenerare tutta la pipeline dopo il bug del repeat-rate e ottenere numeri diversi solo perché il codice era cambiato, non per caso.</div>
+  </div>
+
+  <h3 class="substep">La probabilità di ritorno (v2)</h3>
+  <div class="formula">
+    <div class="f-line">p_repeat = 0.15
+    + 0.15 · [canale == diretto]
+    + 0.07 · [alta stagione]
+    + 0.05 · [paese fedele]
+    + 0.01 · min(notti, 6)</div>
+    <div class="f-note">Ogni <span class="mono">[condizione]</span> vale 1 se vera, 0 se falsa (notazione a "parentesi di Iverson"). Il risultato viene poi limitato (clip) tra 0,03 e 0,75, così nessun ospite ha probabilità 0 o 1 esatte — sempre un po' di incertezza, come nella realtà.</div>
+  </div>
+  <div class="callout">
+    <span class="label">perché è importante</span>
+    Questa è la formula che ho dovuto correggere: nella v1 non esisteva — il ritorno veniva deciso a ogni prenotazione pescando a caso tra gli ospiti già visti, e il pool si esauriva in fretta producendo un tasso di ritorno del 98,6%. La v2 decide il destino di ogni ospite <em>una volta sola</em>, alla prima visita.
+  </div>
+</section>
+
+<section class="step" id="step1">
+  <div class="step-head">
+    <span class="step-num mono">1</span>
+    <h2>Pulizia e unione</h2>
+  </div>
+  <p class="step-sub"><span class="mono">scripts/clean_and_merge.py</span></p>
+
+  <h3 class="substep">Normalizzazione dei nomi</h3>
+  <div class="formula">
+    <div class="f-line">normalize(nome) = " ".join(sorted(nome.strip().lower().split()))</div>
+    <div class="f-note">Tre operazioni in fila: minuscolo (elimina "ROSSI" vs "rossi"), split+sorted sui singoli token (elimina "Marco Rossi" vs "Rossi Marco"), poi ricompone. È la chiave usata per il join tra <span class="mono">bookings.csv</span> e <span class="mono">guests.csv</span>.</div>
+    <div class="example">
+      <span class="label">esempio reale</span>
+      "MARCO ROSSI", "  Rossi Marco  " e "marco rossi" diventano tutti <span class="mono">"marco rossi"</span> → stessa chiave, stesso ospite.
+    </div>
+  </div>
+
+  <h3 class="substep">Perché il join resta comunque ambiguo</h3>
+  <p>Normalizzare risolve le variazioni di scrittura, ma non le omonimie vere: due persone diverse che si chiamano allo stesso modo. Con un pool di nomi limitato e migliaia di ospiti, la probabilità di almeno una collisione cresce rapidamente — la stessa logica del <a href="https://it.wikipedia.org/wiki/Paradosso_del_compleanno" target="_blank" rel="noopener">paradosso del compleanno</a> (bastano 23 persone perché sia più probabile che no che due condividano il compleanno, su 365 possibilità).</p>
+  <div class="result">495 ospiti coinvolti in omonimia (15%)</div>
+
+  <h3 class="substep">Conversione valuta e imputazione date</h3>
+  <div class="formula">
+    <div class="f-line">tariffa_EUR = tariffa_USD × 0.92          # tasso fisso
+
+check_out_corretto = check_in + mediana(notti | stessa stagione)</div>
+    <div class="f-note">Per le 40 righe con date rotte (check-out ≤ check-in), non le ho scartate: ho stimato una durata plausibile usando la mediana dei soggiorni validi nella stessa stagione — un'imputazione, non un'invenzione, e tracciata con un flag <span class="mono">date_corretta</span> per restare trasparente su cosa è stato toccato.</div>
+  </div>
+</section>
+
+<section class="step" id="step2">
+  <div class="step-head">
+    <span class="step-num mono">2</span>
+    <h2>RevPAR, ADR e stagionalità</h2>
+  </div>
+  <p class="step-sub"><span class="mono">scripts/step2_revpar_seasonality.py</span></p>
+
+  <h3 class="substep">Le due metriche cardine del revenue management</h3>
+  <div class="formula">
+    <div class="f-line">ADR    = Ricavo totale / Camere-notte VENDUTE
+RevPAR = Ricavo totale / Camere-notte DISPONIBILI
+       = ADR × Occupazione</div>
+    <div class="f-note">ADR ti dice quanto incassi per camera <em>quando la vendi</em>. RevPAR ti dice quanto incassi per camera <em>che tu la venda o no</em> — per questo è la metrica che il management guarda davvero: un ADR alto con occupazione bassa può nascondere un RevPAR mediocre.</div>
+  </div>
+
+  <h3 class="substep">Scomposizione STL</h3>
+  <div class="formula">
+    <div class="f-line">RevPAR(t) = Trend(t) + Stagionalità(t) + Residuo(t)</div>
+    <div class="f-note">STL (Seasonal-Trend decomposition using Loess) separa la serie mensile in tre pezzi stimati iterativamente: un trend liscio, un pattern stagionale che si ripete ogni 12 mesi, e tutto quello che resta (il residuo). Se il residuo è quasi zero, vuol dire che trend+stagionalità spiegano quasi tutto — ed è esattamente quello che è successo nel tuo caso, perché il generatore non inietta shock casuali mese per mese.</div>
+    <div class="example">
+      <span class="label">i tuoi numeri</span>
+      Ampiezza stagionale picco-valle: <span class="result">167,32 €</span> di RevPAR. Residuo: <span class="result">≈ 0</span> (nell'ordine di 1e-14, rumore numerico). Trend: <span class="result">+16,8%</span> sui 23 mesi completi — ma con appena ~2 cicli stagionali osservati, il trend è la componente meno affidabile delle tre: non fidartene senza più storia.
+    </div>
+  </div>
+</section>
+
+<section class="step" id="step3">
+  <div class="step-head">
+    <span class="step-num mono">3</span>
+    <h2>Segmentazione e modello di ritorno</h2>
+  </div>
+  <p class="step-sub"><span class="mono">scripts/step3_repeat_guest_model.py</span></p>
+
+  <h3 class="substep">Il target, con censura</h3>
+  <div class="formula">
+    <div class="f-line">repeat = 1  se  ∃ soggiorno successivo entro 547 giorni (18 mesi)
+elegibile per il training  solo se  prima_visita ≤ oggi − 18 mesi</div>
+    <div class="f-note">La censura è il concetto più sottile del progetto: un ospite la cui prima visita è recente non ha ancora avuto la possibilità di tornare entro la finestra di 18 mesi — includerlo come "non tornato" sarebbe un errore sistematico (sottostimeresti il tasso di ritorno). Si esclude, non si etichetta.</div>
+    <div class="example">
+      <span class="label">i tuoi numeri</span>
+      2.004 ospiti esclusi per censura su 2.592 → restano <span class="result">588</span> ospiti utilizzabili, con un tasso di ritorno reale del <span class="result">25,3%</span>.
+    </div>
+  </div>
+
+  <h3 class="substep">Perché non basta l'accuracy</h3>
+  <p>Con classi sbilanciate (75% one-time, 25% repeat), un modello che dice sempre "one-time" avrebbe il 75% di accuracy senza aver imparato nulla. Per questo si guardano precision, recall e AUC.</p>
+  <div class="formula">
+    <div class="f-line">Precision = Veri Positivi / (Veri Positivi + Falsi Positivi)
+Recall    = Veri Positivi / (Veri Positivi + Falsi Negativi)
+AUC       = P( il modello dà punteggio più alto a un repeat
+               scelto a caso che a un one-time scelto a caso )</div>
+    <div class="f-note">Precision risponde a "quando dico repeat, ho ragione?". Recall risponde a "dei repeat veri, quanti ne trovo?". AUC è la più severa: un modello inutile (equivalente a tirare a sorte) ha AUC 0,50 a prescindere da quanto è sbilanciata la classe — non lo puoi "gonfiare" prevedendo sempre la classe maggioritaria.</div>
+    <div class="example">
+      <span class="label">i tuoi numeri</span>
+      Random Forest: <span class="result">AUC 0,54</span>. Logistic Regression: <span class="result">AUC 0,49</span>. Appena sopra al caso: il segnale disegnato nel generatore esiste, ma 441 esempi di training non bastano per un modello davvero affidabile.
+    </div>
+  </div>
+
+  <h3 class="substep">Logistic Regression</h3>
+  <div class="formula">
+    <div class="f-line">P(repeat) = 1 / (1 + e^-(β₀ + β₁x₁ + β₂x₂ + ... ))
+
+odds ratio = e^β</div>
+    <div class="f-note">La regressione lineare classica prevede un numero qualsiasi; qui serve una probabilità tra 0 e 1, quindi il risultato lineare passa dentro la funzione sigmoide (quella "S" che schiaccia tutto in (0,1)). Ogni coefficiente β, esponenziato, diventa un odds ratio: quanto si moltiplicano le probabilità-contro-probabilità di "repeat" per ogni unità in più di quella feature.</div>
+  </div>
+
+  <h3 class="substep">Random Forest</h3>
+  <div class="formula">
+    <div class="f-line">previsione = media (o voto di maggioranza) di N alberi decisionali,
+             ciascuno addestrato su un campione bootstrap dei dati
+             e un sottoinsieme casuale delle feature</div>
+    <div class="f-note">Un singolo albero decisionale impara regole rigide ("se ADR &gt; 300 e stagione = alta → repeat") e tende a overfittare. La foresta ne allena centinaia, ognuno leggermente diverso per via del campionamento casuale, e media i risultati — questo riduce la varianza senza aumentare troppo il bias.</div>
+  </div>
+
+  <h3 class="substep">Permutation importance</h3>
+  <div class="formula">
+    <div class="f-line">importanza(feature) = AUC(modello originale) − AUC(modello con quella
+                                        colonna mescolata a caso)</div>
+    <div class="f-note">Un modo diretto per chiedere "questa feature conta davvero?": prendi la colonna, la rimescoli così le righe non corrispondono più al resto dei dati (distruggendo la sua relazione con il target, ma mantenendone la distribuzione), e guardi quanto peggiora l'AUC. Un calo grande vuol dire che il modello si appoggiava molto su quella feature.</div>
+    <div class="example">
+      <span class="label">i tuoi numeri</span>
+      Random Forest: <span class="result">alta stagione</span> → <span class="result">durata soggiorno</span> → <span class="result">ADR</span>. Nota che canale, pur avendo l'effetto marginale più forte nei dati grezzi (+12 punti), scivola in fondo — probabilmente perché canale e stagione sono correlati tra loro, e il modello "spende" già gran parte di quel segnale sulla stagione.
+    </div>
+  </div>
+</section>
+
+<section class="step" id="step4">
+  <div class="step-head">
+    <span class="step-num mono">4</span>
+    <h2>Il test causale sulla promo</h2>
+  </div>
+  <p class="step-sub"><span class="mono">scripts/step4_promo_test.py</span></p>
+
+  <h3 class="substep">Chi-quadrato</h3>
+  <div class="formula">
+    <div class="f-line">χ² = Σ  (Osservato − Atteso)² / Atteso</div>
+    <div class="f-note">Confronta le frequenze che hai davvero osservato (quante prenotazioni dirette pre/post promo) con quelle che ti aspetteresti se canale e periodo fossero completamente indipendenti. Più χ² è grande, meno è credibile che la differenza sia solo rumore campionario — da cui il p-value.</div>
+  </div>
+
+  <h3 class="substep">Il paradosso di Simpson</h3>
+  <p>Succede quando una terza variabile (qui: la stagione) è associata sia alla variabile che stai misurando (canale) sia al momento in cui guardi (pre/post promo) — e questo distorce, a volte perfino ribalta, il confronto aggregato.</p>
+  <div class="callout">
+    <span class="label">la meccanica, in tre righe</span>
+    L'alta stagione ha naturalmente più booking diretti (a prescindere dalla promo). La finestra "post-promo" (ultimi 6 mesi) contiene più mesi di alta stagione della finestra "pre-promo" (18 mesi). Quindi parte dell'aumento aggregato di booking diretti non è merito della promo — è solo che nel periodo post ci sono proporzionalmente più mesi in cui la gente prenota diretto comunque.
+  </div>
+
+  <h3 class="substep">La correzione: regressione con covariata di controllo</h3>
+  <div class="formula">
+    <div class="f-line">P(diretto) = σ( β₀ + β₁ · post_promo + β₂ · alta_stagione )</div>
+    <div class="f-note">Aggiungendo <span class="mono">alta_stagione</span> come covariata, il coefficiente β₁ smette di "assorbire" anche l'effetto della stagione — stima l'effetto della promo <em>a parità di stagione</em>. L'effetto marginale medio (AME) traduce quel coefficiente in punti percentuali di probabilità, la forma più leggibile per un report.</div>
+    <div class="example">
+      <span class="label">i tuoi numeri</span>
+      Stima aggregata (distorta): <span class="result">+9,1 pp</span>. Stima corretta per stagione (regressione): <span class="result">+5,7 pp</span> (odds ratio 1,295, p = 0,0006). Il confronto grezzo sovrastimava l'effetto della promo di circa il 60%.
+    </div>
+  </div>
+</section>
+
+<section class="step" id="glossario">
+  <div class="step-head">
+    <span class="step-num mono">§</span>
+    <h2>Glossario rapido</h2>
+  </div>
+  <dl class="glossary">
+    <dt>p-value</dt>
+    <dd>Probabilità di osservare una differenza grande almeno quanto quella misurata, <em>se</em> in realtà non ci fosse alcun effetto. Piccolo (di solito &lt; 0,05) → la differenza è difficile da spiegare col solo caso.</dd>
+
+    <dt>Odds ratio</dt>
+    <dd>Rapporto tra "probabilità a favore" (odds = p/(1-p)) in due condizioni diverse. 1 = nessun effetto, &gt;1 = aumenta le probabilità, &lt;1 = le riduce.</dd>
+
+    <dt>AUC</dt>
+    <dd>Area sotto la curva ROC. 0,50 = modello equivalente al caso, 1,00 = separazione perfetta tra le classi.</dd>
+
+    <dt>Class imbalance</dt>
+    <dd>Quando una classe del target è molto più frequente dell'altra (qui 75%/25%) — rende l'accuracy fuorviante e richiede class_weight='balanced' o simili.</dd>
+
+    <dt>Censura (censoring)</dt>
+    <dd>Dati che non hai ancora potuto osservare per intero perché la finestra di osservazione non si è chiusa — concetto chiave in analisi di sopravvivenza e retention.</dd>
+
+    <dt>Entity resolution</dt>
+    <dd>Il problema di capire se due record (qui: due righe con lo stesso nome) si riferiscono alla stessa entità reale o a due diverse.</dd>
+
+    <dt>STL</dt>
+    <dd>Seasonal-Trend decomposition using Loess — metodo per scomporre una serie storica in trend, stagionalità e residuo.</dd>
+
+    <dt>Permutation importance</dt>
+    <dd>Misura di quanto una feature conta per un modello, mescolandola a caso e guardando quanto peggiora la performance.</dd>
+  </dl>
+</section>
+
+<footer>
+  Compagno di studio per <a href="https://github.com/logiop/hotel-revenue-analytics" target="_blank" rel="noopener">logiop/hotel-revenue-analytics</a>. I numeri qui dentro sono quelli usciti dalla run con seed 42 — rilanciando gli script otterrai esattamente gli stessi.
+</footer>
+
+</div>
+
+</body>
+</html>
