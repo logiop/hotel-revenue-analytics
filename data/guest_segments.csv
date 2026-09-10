@@ -1,0 +1,589 @@
+guest_name_norm,booking_id,email,paese,cibo_preferito,prima_visita,prima_visita_effettiva,check_out,durata_prima_visita,canale_prima_visita,currency,room_rate,adr_prima_visita,cancelled,net_revenue_eur,alta_stagione_prima_visita,post_promo,date_corretta,nome_ambiguo,repeat
+ahmed chen,BK00716,ahmed.chen370@outlook.com,Netherlands,halal,2025-02-22,2025-02-22,2025-02-25,3,OTA,EUR,200.88,200.88,False,602.64,False,False,False,False,0
+ahmed conti,BK00275,ahmed.conti922@yahoo.com,Netherlands,halal,2024-11-10,2024-11-10,2024-11-14,4,OTA,EUR,244.01,244.01,False,976.04,False,False,False,False,0
+ahmed esposito,BK00747,ahmed.esposito621@icloud.com,Germany,kosher,2025-03-05,2025-03-05,2025-03-10,5,OTA,EUR,222.38,222.38,False,1111.9,False,False,False,False,0
+ahmed kim,BK00100,ahmed.kim205@gmail.com,France,pesce,2024-09-25,2024-09-25,2024-09-29,4,OTA,EUR,367.86,367.86,False,1471.44,True,False,False,False,1
+ahmed lefevre,BK00508,ahmed.lefevre237@outlook.com,Spain,vegetariana,2024-12-26,2024-12-26,2024-12-30,4,OTA,EUR,513.56,513.56,False,2054.24,True,False,False,False,0
+ahmed park,BK00676,ahmed.park675@outlook.com,Germany,vegetariana,2025-02-10,2025-02-10,2025-02-13,3,OTA,EUR,263.6,263.6,False,790.8,False,False,False,False,0
+ahmed sharma,BK00282,ahmed.sharma65@icloud.com,France,kosher,2024-11-13,2024-11-13,2024-11-14,1,OTA,EUR,190.86,190.86,False,190.86,False,False,False,False,1
+ahmed weber,BK00193,ahmed.weber766@outlook.com,UAE,kosher,2024-10-16,2024-10-16,2024-10-17,1,OTA,EUR,239.49,239.49,False,239.49,False,False,False,False,1
+aiko andersen,BK00411,aiko.andersen698@icloud.com,Japan,kosher,2024-12-12,2024-12-12,2024-12-15,3,direct,EUR,425.38,425.38,False,1276.14,True,False,False,False,0
+aiko dubois,BK00509,aiko.dubois551@outlook.com,Switzerland,vegetariana,2024-12-27,2024-12-27,2024-12-30,3,OTA,EUR,489.48,489.48,False,1468.44,True,False,False,False,0
+aiko hassan,BK00121,aiko.hassan384@gmail.com,USA,senza glutine,2024-09-28,2024-09-28,2024-09-30,2,OTA,EUR,389.6,389.6,False,779.2,True,False,False,False,0
+aiko ivanov,BK00618,aiko.ivanov318@gmail.com,Germany,halal,2025-01-23,2025-01-23,2025-01-27,4,direct,EUR,249.92,249.92,False,999.68,False,False,False,False,1
+aiko johnson,BK00693,aiko.johnson287@icloud.com,France,senza glutine,2025-02-15,2025-02-15,2025-02-16,1,OTA,EUR,254.38,254.38,False,254.38,False,False,False,False,0
+aiko lopez,BK00419,aiko.lopez935@outlook.com,Spain,vegana,2024-12-14,2024-12-14,2024-12-17,3,OTA,EUR,377.34,377.34,False,1132.02,True,False,False,False,0
+aiko meyer,BK00744,aiko.meyer160@outlook.com,Spain,halal,2025-03-04,2025-03-04,2025-03-07,3,OTA,EUR,274.88,274.88,False,824.64,False,False,False,False,0
+aiko muller,BK00277,aiko.muller757@icloud.com,France,senza glutine,2024-11-11,2024-11-11,2024-11-12,1,OTA,EUR,229.85,229.85,False,229.85,False,False,False,False,1
+aiko nakamura,BK00447,aiko.nakamura765@gmail.com,France,pesce,2024-12-18,2024-12-18,2024-12-21,3,OTA,EUR,357.7,357.7,False,1073.1,True,False,False,False,0
+aiko patel,BK00334,aiko.patel113@yahoo.com,Germany,senza glutine,2024-12-02,2024-12-02,2024-12-05,3,OTA,EUR,426.87,426.87,False,1280.61,True,False,False,False,0
+aiko rossi,BK00085,aiko.rossi405@icloud.com,Switzerland,internazionale,2024-09-22,2024-09-22,2024-09-24,2,direct,EUR,475.91,475.91,False,951.82,True,False,False,False,0
+aiko silva,BK00401,aiko.silva690@yahoo.com,USA,pesce,2024-12-11,2024-12-11,2024-12-17,6,direct,EUR,379.55,379.55,False,2277.3,True,False,False,False,0
+aiko singh,BK00062,aiko.singh725@outlook.com,Japan,italiana,2024-09-19,2024-09-19,2024-09-24,5,OTA,EUR,312.24,312.24,False,1561.2,True,False,False,False,1
+aiko suzuki,BK00494,aiko.suzuki966@outlook.com,UK,italiana,2024-12-25,2024-12-25,2024-12-28,3,direct,EUR,452.75,452.75,False,1358.25,True,False,False,False,1
+al-farsi ananya,BK00158,ananya.al-farsi667@outlook.com,UK,vegana,2024-10-08,2024-10-08,2024-10-10,2,OTA,EUR,261.8,261.8,False,523.6,False,False,False,False,0
+al-farsi anna,BK00194,anna.al-farsi291@outlook.com,Spain,internazionale,2024-10-16,2024-10-16,2024-10-18,2,OTA,EUR,202.53,202.53,False,405.06,False,False,False,False,0
+al-farsi arjun,BK00154,arjun.al-farsi445@outlook.com,Spain,vegetariana,2024-10-06,2024-10-06,2024-10-08,2,OTA,EUR,217.53,217.53,False,435.06,False,False,False,False,0
+al-farsi charlotte,BK00727,charlotte.al-farsi69@gmail.com,UK,pesce,2025-02-25,2025-02-25,2025-02-27,2,OTA,EUR,280.14,280.14,False,560.28,False,False,False,False,0
+al-farsi henri,BK00086,henri.al-farsi602@outlook.com,Japan,internazionale,2024-09-22,2024-09-22,2024-09-27,5,direct,EUR,371.05,371.05,False,1855.25,True,False,False,False,1
+al-farsi jean,BK00050,jean.al-farsi314@yahoo.com,UAE,vegana,2024-09-17,2024-09-17,2024-09-22,5,OTA,EUR,421.82,421.82,False,2109.1,True,False,False,False,0
+al-farsi laura,BK00546,laura.al-farsi89@yahoo.com,Italy,kosher,2025-01-03,2025-01-03,2025-01-08,5,OTA,USD,228.4,210.13,False,1050.65,False,False,False,False,0
+al-farsi valentina,BK00124,valentina.al-farsi21@yahoo.com,Switzerland,pesce,2024-09-28,2024-09-28,2024-10-01,3,direct,EUR,440.72,440.72,False,1322.16,True,False,False,False,0
+al-rashid ingrid,BK00424,ingrid.al-rashid237@outlook.com,Switzerland,pesce,2024-12-15,2024-12-15,2024-12-20,5,OTA,EUR,447.64,447.64,False,2238.2,True,False,False,False,0
+al-rashid isabella,BK00238,isabella.al-rashid518@yahoo.com,USA,italiana,2024-10-31,2024-10-31,2024-11-01,1,OTA,EUR,234.51,234.51,False,234.51,False,False,False,False,0
+al-rashid john,BK00553,john.al-rashid634@yahoo.com,USA,halal,2025-01-05,2025-01-05,2025-01-08,3,OTA,EUR,231.83,231.83,False,695.49,False,False,False,False,1
+al-rashid kenji,BK00418,kenji.al-rashid280@outlook.com,UK,kosher,2024-12-14,2024-12-14,2024-12-20,6,OTA,EUR,420.67,420.67,False,2524.02,True,False,False,False,0
+al-rashid klaus,BK00757,klaus.al-rashid635@yahoo.com,Japan,pesce,2025-03-08,2025-03-08,2025-03-11,3,OTA,EUR,184.14,184.14,False,552.42,False,False,False,False,0
+al-rashid laura,BK00215,laura.al-rashid586@outlook.com,UK,senza glutine,2024-10-23,2024-10-23,2024-10-27,4,OTA,EUR,255.35,255.35,False,1021.4,False,False,False,False,0
+al-rashid patricia,BK00728,patricia.al-rashid610@gmail.com,Spain,senza glutine,2025-02-26,2025-02-26,2025-03-02,4,OTA,EUR,211.48,211.48,False,845.92,False,False,False,False,1
+al-rashid thomas,BK00027,thomas.al-rashid958@yahoo.com,Japan,senza glutine,2024-09-14,2024-09-14,2024-09-16,2,direct,EUR,414.66,414.66,False,829.32,True,False,False,False,1
+al-rashid william,BK00348,william.al-rashid296@yahoo.com,UAE,italiana,2024-12-04,2024-12-04,2024-12-07,3,direct,EUR,400.68,400.68,False,1202.04,True,False,False,False,0
+al-rashid yuki,BK00159,yuki.al-rashid180@outlook.com,UAE,internazionale,2024-10-08,2024-10-08,2024-10-10,2,OTA,EUR,179.23,179.23,False,358.46,False,False,False,False,1
+alessandro andersen,BK00765,alessandro.andersen395@gmail.com,USA,internazionale,2025-03-10,2025-03-10,2025-03-13,3,OTA,EUR,203.34,203.34,False,610.02,False,False,False,False,0
+alessandro ferrari,BK00512,alessandro.ferrari67@icloud.com,UK,kosher,2024-12-27,2024-12-27,2024-12-28,1,direct,EUR,458.82,458.82,False,458.82,True,False,False,False,0
+alessandro ferreira,BK00140,alessandro.ferreira730@icloud.com,Germany,internazionale,2024-10-03,2024-10-03,2024-10-13,10,direct,EUR,297.84,297.84,False,2978.4,False,False,False,False,1
+alessandro hassan,BK00176,alessandro.hassan317@outlook.com,USA,internazionale,2024-10-12,2024-10-12,2024-10-15,3,OTA,EUR,189.11,189.11,False,567.33,False,False,False,False,0
+alessandro ivanov,BK00167,alessandro.ivanov535@gmail.com,France,vegetariana,2024-10-11,2024-10-11,2024-10-13,2,OTA,EUR,253.2,253.2,False,506.4,False,False,False,False,0
+alessandro kim,BK00217,alessandro.kim452@yahoo.com,UAE,senza glutine,2024-10-24,2024-10-24,2024-10-28,4,OTA,USD,236.23,217.33,False,869.32,False,False,False,False,0
+alessandro kowalski,BK00549,alessandro.kowalski615@yahoo.com,Germany,vegetariana,2025-01-04,2025-01-04,2025-01-11,7,OTA,USD,258.15,237.5,False,1662.5,False,False,False,False,1
+alessandro meyer,BK00200,alessandro.meyer973@outlook.com,Netherlands,internazionale,2024-10-18,2024-10-18,2024-10-19,1,OTA,EUR,255.13,255.13,False,255.13,False,False,False,False,0
+alessandro muller,BK00513,alessandro.muller491@yahoo.com,USA,pesce,2024-12-28,2024-12-28,2024-12-30,2,direct,USD,339.78,312.6,False,625.2,True,False,False,False,1
+alessandro nowak,BK00018,alessandro.nowak646@icloud.com,USA,italiana,2024-09-12,2024-09-12,2024-09-15,3,OTA,EUR,460.93,460.93,False,1382.79,True,False,False,False,1
+alessandro park,BK00362,alessandro.park793@icloud.com,UK,pesce,2024-12-05,2024-12-05,2024-12-10,5,OTA,EUR,400.77,400.77,False,2003.85,True,False,False,False,0
+alessandro schmidt,BK00045,alessandro.schmidt699@outlook.com,Germany,internazionale,2024-09-17,2024-09-17,2024-09-18,1,OTA,USD,433.73,399.03,False,399.03,True,False,False,False,0
+alessandro sharma,BK00714,alessandro.sharma443@outlook.com,UK,italiana,2025-02-21,2025-02-21,2025-02-23,2,OTA,EUR,295.75,295.75,False,591.5,False,False,False,False,0
+alessandro tanaka,BK00698,alessandro.tanaka679@icloud.com,Germany,internazionale,2025-02-16,2025-02-16,2025-02-20,4,OTA,USD,240.74,221.48,False,885.92,False,False,False,False,0
+alessandro wagner,BK00021,alessandro.wagner7@outlook.com,Netherlands,pesce,2024-09-13,2024-09-13,2024-09-17,4,direct,EUR,474.78,474.78,False,1899.12,True,False,False,False,0
+alessandro weber,BK00011,alessandro.weber970@yahoo.com,Japan,kosher,2024-09-11,2024-09-11,2024-09-14,3,OTA,EUR,411.3,411.3,False,1233.9,True,False,False,False,0
+amelia hassan,BK00722,amelia.hassan782@icloud.com,UK,kosher,2025-02-24,2025-02-24,2025-02-25,1,OTA,EUR,186.54,186.54,False,186.54,False,False,False,False,0
+amelia kim,BK00012,amelia.kim240@yahoo.com,UAE,vegana,2024-09-11,2024-09-11,2024-09-13,2,OTA,EUR,534.44,534.44,False,1068.88,True,False,False,False,1
+amelia patel,BK00254,amelia.patel562@outlook.com,Netherlands,senza glutine,2024-11-05,2024-11-05,2024-11-10,5,OTA,EUR,236.63,236.63,False,1183.15,False,False,False,False,0
+amelia ricci,BK00029,amelia.ricci671@icloud.com,USA,halal,2024-09-14,2024-09-14,2024-09-17,3,OTA,EUR,451.45,451.45,False,1354.35,True,False,False,False,0
+amelia silva,BK00175,amelia.silva301@icloud.com,Japan,vegetariana,2024-10-12,2024-10-12,2024-10-15,3,OTA,EUR,237.24,237.24,False,711.72,False,False,False,False,0
+ananya bernard,BK00665,ananya.bernard770@outlook.com,UAE,vegetariana,2025-02-06,2025-02-06,2025-02-08,2,OTA,EUR,188.68,188.68,False,377.36,False,False,False,False,0
+ananya ferrari,BK00752,ananya.ferrari963@outlook.com,Italy,vegetariana,2025-03-06,2025-03-06,2025-03-08,2,OTA,EUR,233.42,233.42,False,466.84,False,False,False,False,0
+ananya fischer,BK00299,ananya.fischer554@outlook.com,France,vegana,2024-11-18,2024-11-18,2024-11-23,5,direct,EUR,238.21,238.21,False,1191.05,False,False,False,False,1
+ananya garcia,BK00113,ananya.garcia535@icloud.com,Switzerland,italiana,2024-09-27,2024-09-27,2024-09-30,3,OTA,USD,466.75,429.41,False,1288.23,True,False,False,False,1
+ananya klein,BK00120,ananya.klein655@outlook.com,USA,internazionale,2024-09-28,2024-09-28,2024-10-01,3,OTA,EUR,473.09,473.09,False,1419.27,True,False,False,False,1
+ananya park,BK00475,ananya.park16@outlook.com,Germany,italiana,2024-12-22,2024-12-22,2024-12-26,4,OTA,EUR,397.19,397.19,False,1588.76,True,False,False,False,1
+ananya singh,BK00198,ananya.singh231@gmail.com,Japan,vegana,2024-10-18,2024-10-18,2024-10-21,3,OTA,EUR,287.18,287.18,False,861.54,False,False,False,False,0
+andersen astrid,BK00491,astrid.andersen752@yahoo.com,Netherlands,halal,2024-12-25,2024-12-25,2024-12-26,1,OTA,USD,423.53,389.65,False,389.65,True,False,False,False,0
+andersen camille,BK00333,camille.andersen722@icloud.com,Italy,senza glutine,2024-12-02,2024-12-02,2024-12-04,2,direct,USD,377.19,347.01,False,694.02,True,False,False,False,1
+andersen charlotte,BK00664,charlotte.andersen354@gmail.com,UK,senza glutine,2025-02-06,2025-02-06,2025-02-10,4,OTA,EUR,236.5,236.5,False,946.0,False,False,False,False,0
+andersen elena,BK00469,elena.andersen670@icloud.com,France,italiana,2024-12-22,2024-12-22,2024-12-26,4,OTA,USD,522.08,480.31,False,1921.24,True,False,False,False,0
+andersen emma,BK00691,emma.andersen350@icloud.com,USA,internazionale,2025-02-14,2025-02-14,2025-02-16,2,OTA,EUR,213.43,213.43,False,426.86,False,False,False,False,0
+andersen erik,BK00430,erik.andersen924@icloud.com,Italy,kosher,2024-12-15,2024-12-15,2024-12-23,8,OTA,USD,378.63,348.34,False,2786.72,True,False,False,False,0
+andersen fatima,BK00368,fatima.andersen491@icloud.com,France,halal,2024-12-06,2024-12-06,2024-12-10,4,OTA,EUR,453.04,453.04,False,1812.16,True,False,False,False,0
+andersen giorgia,BK00382,giorgia.andersen517@icloud.com,Spain,italiana,2024-12-08,2024-12-08,2024-12-10,2,direct,EUR,390.33,390.33,False,780.66,True,False,False,False,0
+andersen giulia,BK00023,giulia.andersen900@yahoo.com,Japan,kosher,2024-09-13,2024-09-13,2024-09-15,2,direct,EUR,476.98,476.98,False,953.96,True,False,False,False,1
+andersen john,BK00082,john.andersen568@icloud.com,UK,pesce,2024-09-22,2024-09-22,2024-09-24,2,OTA,EUR,457.04,457.04,False,914.08,True,False,False,False,0
+andersen omar,BK00398,omar.andersen83@yahoo.com,Germany,vegetariana,2024-12-11,2024-12-11,2024-12-18,7,OTA,EUR,481.38,481.38,False,3369.66,True,False,False,False,1
+andersen simone,BK00552,simone.andersen822@icloud.com,Switzerland,pesce,2025-01-05,2025-01-05,2025-01-07,2,OTA,USD,264.06,242.94,False,485.88,False,False,False,False,0
+andrea colombo,BK00492,andrea.colombo577@icloud.com,Spain,kosher,2024-12-25,2024-12-25,2024-12-28,3,OTA,EUR,329.83,329.83,False,989.49,True,False,False,False,0
+andrea conti,BK00412,andrea.conti606@icloud.com,Netherlands,senza glutine,2024-12-13,2024-12-13,2024-12-15,2,direct,EUR,434.8,434.8,False,869.6,True,False,False,False,1
+andrea ferrari,BK00748,andrea.ferrari756@outlook.com,USA,pesce,2025-03-05,2025-03-05,2025-03-06,1,direct,EUR,238.05,238.05,False,238.05,False,False,False,False,1
+andrea ivanov,BK00110,andrea.ivanov253@yahoo.com,Japan,senza glutine,2024-09-27,2024-09-27,2024-09-30,3,direct,USD,477.98,439.74,False,1319.22,True,False,False,False,1
+andrea kobayashi,BK00170,andrea.kobayashi6@outlook.com,Germany,pesce,2024-10-11,2024-10-11,2024-10-12,1,OTA,EUR,241.08,241.08,False,241.08,False,False,False,False,0
+andrea rossi,BK00276,andrea.rossi180@outlook.com,Switzerland,vegetariana,2024-11-11,2024-11-11,2024-11-15,4,OTA,USD,217.57,200.16,False,800.64,False,False,False,False,0
+andrea schmidt,BK00643,andrea.schmidt222@gmail.com,UAE,pesce,2025-01-29,2025-01-29,2025-01-30,1,OTA,EUR,285.86,285.86,False,285.86,False,False,False,False,0
+anna chen,BK00596,anna.chen377@gmail.com,Japan,internazionale,2025-01-17,2025-01-17,2025-01-19,2,OTA,EUR,181.59,181.59,False,363.18,False,False,False,False,0
+anna colombo,BK00587,anna.colombo188@gmail.com,UK,halal,2025-01-15,2025-01-15,2025-01-18,3,direct,EUR,232.35,232.35,False,697.05,False,False,False,False,0
+anna conti,BK00472,anna.conti348@gmail.com,USA,vegetariana,2024-12-22,2024-12-22,2024-12-30,8,direct,USD,424.23,390.29,False,3122.32,True,False,False,False,0
+anna esposito,BK00188,anna.esposito732@yahoo.com,USA,vegana,2024-10-15,2024-10-15,2024-10-16,1,OTA,EUR,271.91,271.91,False,271.91,False,False,False,False,0
+anna girard,BK00214,anna.girard3@yahoo.com,Japan,halal,2024-10-23,2024-10-23,2024-10-24,1,OTA,USD,264.06,242.94,False,242.94,False,False,False,False,0
+anna lefevre,BK00439,anna.lefevre135@outlook.com,France,vegetariana,2024-12-17,2024-12-17,2024-12-21,4,direct,USD,425.61,391.56,False,1566.24,True,False,False,False,0
+anna leroy,BK00564,anna.leroy48@gmail.com,Spain,vegetariana,2025-01-10,2025-01-10,2025-01-13,3,OTA,EUR,235.28,235.28,False,705.84,False,False,False,False,0
+anna lopez,BK00231,anna.lopez682@icloud.com,Switzerland,vegetariana,2024-10-29,2024-10-29,2024-10-31,2,OTA,EUR,227.5,227.5,False,455.0,False,False,False,False,1
+anna nowak,BK00052,anna.nowak296@icloud.com,Japan,vegana,2024-09-18,2024-09-18,2024-09-21,3,direct,EUR,432.69,432.69,False,1298.07,True,False,True,False,0
+anna tanaka,BK00297,anna.tanaka833@outlook.com,Italy,vegetariana,2024-11-17,2024-11-17,2024-11-20,3,direct,EUR,259.21,259.21,False,777.63,False,False,False,False,0
+arjun conti,BK00759,arjun.conti88@icloud.com,Japan,pesce,2025-03-08,2025-03-08,2025-03-10,2,OTA,EUR,234.66,234.66,False,469.32,False,False,False,False,0
+arjun kim,BK00342,arjun.kim720@outlook.com,Spain,senza glutine,2024-12-03,2024-12-03,2024-12-06,3,direct,EUR,389.25,389.25,False,1167.75,True,False,False,False,0
+arjun klein,BK00660,arjun.klein559@outlook.com,USA,internazionale,2025-02-05,2025-02-05,2025-02-07,2,OTA,EUR,201.25,201.25,False,402.5,False,False,False,False,0
+arjun kowalski,BK00636,arjun.kowalski239@outlook.com,Switzerland,pesce,2025-01-28,2025-01-28,2025-01-29,1,OTA,EUR,257.04,257.04,False,257.04,False,False,False,False,0
+arjun nowak,BK00077,arjun.nowak147@icloud.com,UK,halal,2024-09-22,2024-09-22,2024-09-25,3,OTA,USD,409.17,376.44,False,1129.32,True,False,False,False,1
+arjun park,BK00127,arjun.park702@yahoo.com,France,vegana,2024-09-29,2024-09-29,2024-10-02,3,OTA,EUR,379.15,379.15,False,1137.45,True,False,False,False,1
+arjun singh,BK00489,arjun.singh548@yahoo.com,Italy,internazionale,2024-12-25,2024-12-25,2024-12-27,2,direct,EUR,390.51,390.51,False,781.02,True,False,False,False,1
+arjun smith,BK00108,arjun.smith444@gmail.com,Japan,senza glutine,2024-09-26,2024-09-26,2024-09-29,3,direct,EUR,416.84,416.84,False,1250.52,True,False,False,False,0
+arjun sokolov,BK00416,arjun.sokolov151@icloud.com,Switzerland,vegetariana,2024-12-13,2024-12-13,2024-12-17,4,OTA,EUR,412.56,412.56,False,1650.24,True,False,False,False,0
+arjun weber,BK00626,arjun.weber76@gmail.com,France,pesce,2025-01-24,2025-01-24,2025-01-27,3,OTA,EUR,222.3,222.3,False,666.9,False,False,False,False,0
+astrid fischer,BK00423,astrid.fischer739@gmail.com,Germany,senza glutine,2024-12-15,2024-12-15,2024-12-17,2,OTA,EUR,399.26,399.26,False,798.52,True,False,False,False,0
+astrid novak,BK00273,astrid.novak745@gmail.com,Switzerland,kosher,2024-11-09,2024-11-09,2024-11-11,2,OTA,EUR,176.1,176.1,False,352.2,False,False,False,False,0
+astrid park,BK00516,astrid.park206@gmail.com,Switzerland,italiana,2024-12-28,2024-12-28,2025-01-03,6,OTA,EUR,411.46,411.46,False,2468.76,True,False,False,False,1
+astrid patel,BK00413,astrid.patel624@icloud.com,Spain,italiana,2024-12-13,2024-12-13,2024-12-17,4,OTA,EUR,463.04,463.04,False,1852.16,True,False,False,False,1
+astrid ricci,BK00330,astrid.ricci91@yahoo.com,UAE,pesce,2024-12-01,2024-12-01,2024-12-06,5,OTA,EUR,325.33,325.33,False,1626.65,True,False,False,False,0
+astrid wagner,BK00101,astrid.wagner980@icloud.com,USA,kosher,2024-09-25,2024-09-25,2024-09-28,3,direct,EUR,422.59,422.59,False,1267.77,True,False,False,False,0
+bernard isabella,BK00233,isabella.bernard603@icloud.com,France,senza glutine,2024-10-30,2024-10-30,2024-11-01,2,OTA,USD,223.5,205.62,False,411.24,False,False,False,False,0
+bernard john,BK00185,john.bernard434@gmail.com,UK,pesce,2024-10-14,2024-10-14,2024-10-18,4,OTA,EUR,217.51,217.51,False,870.04,False,False,False,False,0
+bernard matteo,BK00399,matteo.bernard387@icloud.com,Japan,pesce,2024-12-11,2024-12-11,2024-12-17,6,OTA,EUR,402.08,402.08,False,2412.48,True,False,False,False,1
+bernard silvia,BK00032,silvia.bernard450@gmail.com,France,internazionale,2024-09-15,2024-09-15,2024-09-22,7,OTA,EUR,437.39,437.39,False,3061.73,True,False,False,False,0
+bianchi carlos,BK00240,carlos.bianchi250@outlook.com,USA,vegetariana,2024-11-01,2024-11-01,2024-11-03,2,OTA,USD,229.91,211.52,False,423.04,False,False,False,False,0
+bianchi david,BK00570,david.bianchi922@outlook.com,Italy,internazionale,2025-01-12,2025-01-12,2025-01-13,1,OTA,EUR,254.86,254.86,False,254.86,False,False,False,False,0
+bianchi fatima,BK00281,fatima.bianchi958@icloud.com,UK,pesce,2024-11-13,2024-11-13,2024-11-18,5,OTA,EUR,227.15,227.15,False,1135.75,False,False,False,False,0
+bianchi hans,BK00766,hans.bianchi866@gmail.com,Italy,senza glutine,2025-03-10,2025-03-10,2025-03-17,7,OTA,EUR,264.97,264.97,False,1854.79,False,False,False,False,1
+bianchi layla,BK00637,layla.bianchi767@outlook.com,Netherlands,italiana,2025-01-28,2025-01-28,2025-01-29,1,OTA,EUR,224.75,224.75,False,224.75,False,False,False,False,1
+bianchi nikolai,BK00270,nikolai.bianchi527@outlook.com,Spain,kosher,2024-11-08,2024-11-08,2024-11-11,3,direct,EUR,226.65,226.65,False,679.95,False,False,False,False,0
+bianchi omar,BK00184,omar.bianchi909@outlook.com,Italy,senza glutine,2024-10-14,2024-10-14,2024-10-18,4,OTA,EUR,189.23,189.23,False,756.92,False,False,False,False,0
+bianchi pierre,BK00131,pierre.bianchi593@icloud.com,Switzerland,vegana,2024-09-30,2024-09-30,2024-10-04,4,direct,EUR,404.15,404.15,False,1616.6,True,False,False,False,1
+bianchi priya,BK00207,priya.bianchi298@icloud.com,Switzerland,internazionale,2024-10-21,2024-10-21,2024-10-23,2,OTA,USD,280.15,257.74,False,515.48,False,False,False,False,0
+bianchi william,BK00160,william.bianchi536@gmail.com,Germany,vegetariana,2024-10-08,2024-10-08,2024-10-09,1,OTA,EUR,249.81,249.81,False,249.81,False,False,False,False,0
+bruno chiara,BK00644,chiara.bruno971@yahoo.com,Japan,vegana,2025-01-31,2025-01-31,2025-02-04,4,OTA,EUR,205.79,205.79,False,823.16,False,False,False,False,0
+bruno david,BK00220,david.bruno423@yahoo.com,UAE,pesce,2024-10-25,2024-10-25,2024-10-27,2,OTA,EUR,226.07,226.07,False,452.14,False,False,False,False,0
+bruno layla,BK00493,layla.bruno211@icloud.com,UK,italiana,2024-12-25,2024-12-25,2024-12-27,2,OTA,USD,463.08,426.03,False,852.06,True,False,False,False,0
+bruno lucia,BK00051,lucia.bruno626@yahoo.com,UAE,vegetariana,2024-09-17,2024-09-17,2024-09-21,4,direct,USD,393.09,361.64,False,1446.56,True,False,False,False,1
+bruno olga,BK00381,olga.bruno336@icloud.com,Germany,vegetariana,2024-12-07,2024-12-07,2024-12-09,2,OTA,EUR,401.97,401.97,False,803.94,True,False,False,False,1
+bruno sara,BK00312,sara.bruno830@icloud.com,USA,italiana,2024-11-24,2024-11-24,2024-11-25,1,OTA,USD,250.3,230.28,False,230.28,False,False,False,False,1
+bruno thomas,BK00206,thomas.bruno146@icloud.com,Switzerland,italiana,2024-10-21,2024-10-21,2024-10-24,3,OTA,USD,197.11,181.34,False,544.02,False,False,False,False,0
+bruno william,BK00452,william.bruno12@icloud.com,Japan,senza glutine,2024-12-19,2024-12-19,2024-12-22,3,OTA,EUR,471.99,471.99,False,1415.97,True,False,False,False,1
+bruno youssef,BK00172,youssef.bruno14@outlook.com,Japan,italiana,2024-10-11,2024-10-11,2024-10-13,2,OTA,EUR,195.76,195.76,False,391.52,False,False,False,False,0
+camille garcia,BK00186,camille.garcia475@yahoo.com,Switzerland,internazionale,2024-10-14,2024-10-14,2024-10-15,1,OTA,EUR,295.34,295.34,False,295.34,False,False,False,False,0
+camille kumar,BK00408,camille.kumar356@yahoo.com,Switzerland,vegana,2024-12-12,2024-12-12,2024-12-14,2,direct,EUR,436.12,436.12,False,872.24,True,False,False,False,0
+camille lopez,BK00181,camille.lopez406@outlook.com,Switzerland,senza glutine,2024-10-13,2024-10-13,2024-10-17,4,OTA,EUR,212.39,212.39,False,849.56,False,False,False,False,0
+camille marino,BK00309,camille.marino234@gmail.com,Germany,senza glutine,2024-11-22,2024-11-22,2024-11-25,3,OTA,EUR,236.91,236.91,False,710.73,False,False,False,False,0
+camille moreau,BK00518,camille.moreau644@outlook.com,Netherlands,vegetariana,2024-12-28,2024-12-28,2025-01-01,4,direct,USD,339.97,312.77,False,1251.08,True,False,False,False,1
+camille muller,BK00163,camille.muller670@yahoo.com,UK,internazionale,2024-10-09,2024-10-09,2024-10-12,3,OTA,EUR,249.87,249.87,False,749.61,False,False,False,False,0
+camille nakamura,BK00501,camille.nakamura89@outlook.com,UAE,internazionale,2024-12-25,2024-12-25,2024-12-29,4,OTA,USD,450.81,414.75,False,1659.0,True,False,False,False,0
+camille park,BK00541,camille.park893@gmail.com,UAE,italiana,2025-01-03,2025-01-03,2025-01-08,5,direct,EUR,219.62,219.62,False,1098.1,False,False,False,False,1
+camille patel,BK00040,camille.patel971@gmail.com,USA,kosher,2024-09-16,2024-09-16,2024-09-18,2,OTA,EUR,404.83,404.83,False,809.66,True,False,False,False,0
+camille schmidt,BK00606,camille.schmidt671@gmail.com,Germany,kosher,2025-01-19,2025-01-19,2025-01-21,2,OTA,EUR,230.87,230.87,False,461.74,False,False,False,False,1
+camille tanaka,BK00242,camille.tanaka617@icloud.com,Italy,italiana,2024-11-01,2024-11-01,2024-11-02,1,OTA,EUR,182.32,182.32,False,182.32,False,False,False,False,0
+carlos colombo,BK00373,carlos.colombo353@yahoo.com,Japan,italiana,2024-12-06,2024-12-06,2024-12-10,4,OTA,EUR,383.15,383.15,False,1532.6,True,False,False,False,0
+carlos dubois,BK00358,carlos.dubois993@outlook.com,UAE,pesce,2024-12-05,2024-12-05,2024-12-10,5,OTA,EUR,406.77,406.77,False,2033.85,True,False,False,False,0
+carlos ivanov,BK00239,carlos.ivanov296@gmail.com,USA,italiana,2024-10-31,2024-10-31,2024-11-01,1,direct,USD,208.45,191.77,False,191.77,False,False,False,False,0
+carlos muller,BK00633,carlos.muller520@yahoo.com,France,kosher,2025-01-28,2025-01-28,2025-01-29,1,OTA,EUR,222.26,222.26,False,222.26,False,False,False,False,0
+carlos nowak,BK00619,carlos.nowak542@outlook.com,UAE,italiana,2025-01-24,2025-01-24,2025-01-25,1,OTA,EUR,250.21,250.21,False,250.21,False,False,False,False,1
+carlos petrov,BK00306,carlos.petrov381@icloud.com,UK,vegana,2024-11-21,2024-11-21,2024-11-24,3,OTA,EUR,265.91,265.91,False,797.73,False,False,False,False,0
+carlos rossi,BK00010,carlos.rossi414@yahoo.com,UK,pesce,2024-09-11,2024-09-11,2024-09-19,8,OTA,USD,343.8,316.3,False,2530.4,True,False,False,False,0
+carlos smith,BK00437,carlos.smith390@icloud.com,USA,halal,2024-12-16,2024-12-16,2024-12-17,1,OTA,EUR,485.57,485.57,False,485.57,True,False,False,False,0
+carlos suzuki,BK00451,carlos.suzuki274@icloud.com,UK,internazionale,2024-12-19,2024-12-19,2024-12-20,1,OTA,EUR,479.86,479.86,False,479.86,True,False,False,False,0
+charlotte colombo,BK00393,charlotte.colombo268@yahoo.com,USA,pesce,2024-12-10,2024-12-10,2024-12-15,5,OTA,EUR,537.06,537.06,False,2685.3,True,False,False,False,0
+charlotte conti,BK00166,charlotte.conti938@outlook.com,Switzerland,vegana,2024-10-10,2024-10-10,2024-10-12,2,OTA,EUR,190.92,190.92,False,381.84,False,False,False,False,0
+charlotte ferreira,BK00554,charlotte.ferreira86@gmail.com,France,vegana,2025-01-06,2025-01-06,2025-01-09,3,OTA,USD,263.97,242.85,False,728.55,False,False,False,False,0
+charlotte fischer,BK00731,charlotte.fischer428@icloud.com,UAE,vegana,2025-02-27,2025-02-27,2025-03-01,2,OTA,USD,244.48,224.92,False,449.84,False,False,False,False,1
+charlotte hassan,BK00465,charlotte.hassan475@yahoo.com,Switzerland,pesce,2024-12-21,2024-12-21,2024-12-24,3,OTA,USD,450.19,414.17,False,1242.51,True,False,False,False,1
+charlotte kowalski,BK00033,charlotte.kowalski289@icloud.com,UAE,pesce,2024-09-15,2024-09-15,2024-09-18,3,OTA,EUR,435.33,435.33,False,1305.99,True,False,False,False,0
+charlotte patel,BK00114,charlotte.patel905@yahoo.com,Italy,vegana,2024-09-27,2024-09-27,2024-09-30,3,direct,EUR,462.97,462.97,False,1388.91,True,False,False,False,0
+charlotte sharma,BK00363,charlotte.sharma917@outlook.com,Germany,vegana,2024-12-05,2024-12-05,2024-12-08,3,direct,EUR,456.4,456.4,False,1369.2,True,False,False,False,0
+charlotte watanabe,BK00366,charlotte.watanabe956@outlook.com,Germany,internazionale,2024-12-06,2024-12-06,2024-12-16,10,direct,EUR,403.48,403.48,False,4034.8,True,False,False,False,0
+charlotte yamamoto,BK00041,charlotte.yamamoto683@outlook.com,Germany,senza glutine,2024-09-16,2024-09-16,2024-09-19,3,OTA,EUR,378.53,378.53,False,1135.59,True,False,False,False,0
+chen elena,BK00039,elena.chen755@yahoo.com,Netherlands,internazionale,2024-09-15,2024-09-15,2024-09-18,3,direct,EUR,335.56,335.56,False,1006.68,True,False,False,False,0
+chen erik,BK00072,erik.chen40@icloud.com,UK,kosher,2024-09-21,2024-09-21,2024-09-27,6,OTA,EUR,418.99,418.99,False,2513.94,True,False,False,False,0
+chen giorgia,BK00583,giorgia.chen877@gmail.com,France,senza glutine,2025-01-14,2025-01-14,2025-01-15,1,direct,EUR,236.97,236.97,False,236.97,False,False,False,False,0
+chen lucia,BK00230,lucia.chen807@yahoo.com,Netherlands,kosher,2024-10-28,2024-10-28,2024-10-30,2,OTA,EUR,241.46,241.46,False,482.92,False,False,False,False,1
+chen sara,BK00227,sara.chen951@gmail.com,UK,pesce,2024-10-27,2024-10-27,2024-10-28,1,direct,EUR,244.15,244.15,False,244.15,False,False,False,False,1
+chen silvia,BK00738,silvia.chen211@yahoo.com,Spain,vegana,2025-03-02,2025-03-02,2025-03-05,3,direct,EUR,290.99,290.99,False,872.97,False,False,False,False,0
+chen william,BK00656,william.chen487@outlook.com,Italy,italiana,2025-02-03,2025-02-03,2025-02-13,10,direct,EUR,301.35,301.35,False,3013.5,False,False,False,False,1
+chiara kaczmarek,BK00421,chiara.kaczmarek591@icloud.com,Switzerland,pesce,2024-12-14,2024-12-14,2024-12-15,1,direct,EUR,372.35,372.35,False,372.35,True,False,False,False,0
+chiara meyer,BK00002,chiara.meyer316@outlook.com,Germany,internazionale,2024-09-10,2024-09-10,2024-09-13,3,OTA,EUR,380.37,380.37,False,1141.11,True,False,False,False,0
+chiara rossi,BK00607,chiara.rossi133@gmail.com,Spain,halal,2025-01-20,2025-01-20,2025-01-24,4,OTA,EUR,300.6,300.6,False,1202.4,False,False,False,False,0
+chiara schmidt,BK00338,chiara.schmidt978@outlook.com,France,internazionale,2024-12-03,2024-12-03,2024-12-09,6,OTA,EUR,375.46,375.46,False,2252.76,True,False,False,False,0
+chiara silva,BK00331,chiara.silva375@yahoo.com,Netherlands,pesce,2024-12-01,2024-12-01,2024-12-05,4,OTA,EUR,381.56,381.56,False,1526.24,True,False,False,False,0
+chiara yamamoto,BK00187,chiara.yamamoto814@outlook.com,USA,pesce,2024-10-15,2024-10-15,2024-10-16,1,OTA,EUR,198.64,198.64,False,198.64,False,False,False,False,0
+colombo david,BK00351,david.colombo469@outlook.com,UK,halal,2024-12-04,2024-12-04,2024-12-05,1,direct,EUR,448.38,448.38,False,448.38,True,False,False,False,0
+colombo ekaterina,BK00304,ekaterina.colombo158@gmail.com,UK,italiana,2024-11-21,2024-11-21,2024-11-23,2,OTA,EUR,230.22,230.22,False,460.44,False,False,False,False,0
+colombo francesco,BK00139,francesco.colombo380@yahoo.com,UAE,internazionale,2024-10-03,2024-10-03,2024-10-05,2,direct,USD,191.05,175.77,False,351.54,False,False,False,False,0
+colombo hans,BK00405,hans.colombo550@gmail.com,UK,vegana,2024-12-12,2024-12-12,2024-12-16,4,direct,EUR,387.67,387.67,False,1550.68,True,False,False,False,1
+colombo ingrid,BK00247,ingrid.colombo577@outlook.com,Italy,halal,2024-11-03,2024-11-03,2024-11-04,1,OTA,EUR,218.8,218.8,False,218.8,False,False,False,False,0
+colombo isabella,BK00116,isabella.colombo793@yahoo.com,Spain,kosher,2024-09-27,2024-09-27,2024-10-03,6,OTA,EUR,411.6,411.6,False,2469.6,True,False,False,False,0
+colombo kenji,BK00249,kenji.colombo839@outlook.com,Switzerland,vegetariana,2024-11-04,2024-11-04,2024-11-06,2,OTA,EUR,208.98,208.98,False,417.96,False,False,False,False,0
+colombo luca,BK00195,luca.colombo40@icloud.com,Netherlands,pesce,2024-10-17,2024-10-17,2024-10-20,3,OTA,EUR,274.72,274.72,False,824.16,False,False,False,False,0
+colombo nikolai,BK00534,nikolai.colombo177@icloud.com,USA,kosher,2024-12-31,2024-12-31,2025-01-01,1,OTA,EUR,404.61,404.61,False,404.61,True,False,False,False,0
+colombo omar,BK00444,omar.colombo757@outlook.com,France,kosher,2024-12-18,2024-12-18,2024-12-21,3,OTA,USD,412.93,379.9,False,1139.7,True,False,False,False,0
+colombo patricia,BK00164,patricia.colombo851@gmail.com,Switzerland,vegana,2024-10-09,2024-10-09,2024-10-13,4,OTA,USD,219.01,201.49,False,805.96,False,False,False,False,0
+colombo robert,BK00504,robert.colombo284@icloud.com,UAE,kosher,2024-12-26,2024-12-26,2024-12-28,2,OTA,EUR,416.6,416.6,False,833.2,True,False,False,False,0
+colombo simone,BK00262,simone.colombo263@gmail.com,France,senza glutine,2024-11-07,2024-11-07,2024-11-10,3,OTA,USD,264.57,243.4,False,730.2,False,False,False,False,1
+colombo youssef,BK00740,youssef.colombo658@yahoo.com,Japan,kosher,2025-03-03,2025-03-03,2025-03-06,3,OTA,EUR,247.28,247.28,False,741.84,False,False,False,False,0
+colombo yuki,BK00125,yuki.colombo920@icloud.com,Switzerland,italiana,2024-09-28,2024-09-28,2024-09-30,2,direct,EUR,417.02,417.02,False,834.04,True,False,False,False,0
+conti dmitri,BK00177,dmitri.conti431@yahoo.com,Netherlands,vegetariana,2024-10-13,2024-10-13,2024-10-15,2,OTA,EUR,239.65,239.65,False,479.3,False,False,False,False,0
+conti ekaterina,BK00322,ekaterina.conti66@outlook.com,USA,italiana,2024-11-28,2024-11-28,2024-11-29,1,OTA,EUR,228.64,228.64,False,228.64,False,False,False,False,1
+conti hans,BK00128,hans.conti659@gmail.com,Italy,italiana,2024-09-29,2024-09-29,2024-10-02,3,direct,USD,470.12,432.51,False,1297.53,True,False,False,False,0
+conti kenji,BK00461,kenji.conti660@outlook.com,UK,internazionale,2024-12-20,2024-12-20,2024-12-23,3,OTA,EUR,408.96,408.96,False,1226.88,True,False,False,False,0
+conti lucia,BK00481,lucia.conti231@gmail.com,Netherlands,kosher,2024-12-23,2024-12-23,2024-12-25,2,OTA,EUR,424.97,424.97,False,849.94,True,False,False,False,0
+conti matteo,BK00390,matteo.conti732@icloud.com,UK,italiana,2024-12-10,2024-12-10,2024-12-15,5,direct,USD,345.82,318.15,False,1590.75,True,False,False,False,0
+conti olivia,BK00599,olivia.conti178@yahoo.com,France,senza glutine,2025-01-18,2025-01-18,2025-01-23,5,OTA,EUR,182.22,182.22,False,911.1,False,False,False,False,1
+costa ekaterina,BK00483,ekaterina.costa794@icloud.com,Germany,vegetariana,2024-12-23,2024-12-23,2024-12-27,4,direct,EUR,439.07,439.07,False,1756.28,True,False,False,False,0
+costa erik,BK00566,erik.costa590@gmail.com,Japan,internazionale,2025-01-11,2025-01-11,2025-01-13,2,direct,EUR,272.7,272.7,False,545.4,False,False,False,False,0
+costa hans,BK00305,hans.costa633@gmail.com,Spain,italiana,2024-11-21,2024-11-21,2024-11-23,2,OTA,EUR,280.48,280.48,False,560.96,False,False,False,False,0
+costa henri,BK00395,henri.costa104@gmail.com,UAE,vegana,2024-12-10,2024-12-10,2024-12-13,3,direct,EUR,471.44,471.44,False,1414.32,True,False,False,False,0
+costa ingrid,BK00031,ingrid.costa248@yahoo.com,Italy,senza glutine,2024-09-15,2024-09-15,2024-09-17,2,direct,EUR,378.96,378.96,False,757.92,True,False,False,False,0
+costa kenji,BK00380,kenji.costa682@outlook.com,Spain,italiana,2024-12-07,2024-12-07,2024-12-09,2,OTA,USD,368.82,339.31,False,678.62,True,False,False,False,0
+costa klaus,BK00016,klaus.costa496@yahoo.com,Netherlands,italiana,2024-09-12,2024-09-12,2024-09-16,4,OTA,EUR,441.36,441.36,False,1765.44,True,False,False,False,1
+costa marco,BK00216,marco.costa108@yahoo.com,Spain,pesce,2024-10-24,2024-10-24,2024-10-27,3,OTA,USD,269.7,248.12,False,744.36,False,False,False,False,0
+costa olga,BK00403,olga.costa210@gmail.com,Italy,senza glutine,2024-12-11,2024-12-11,2024-12-15,4,OTA,EUR,462.61,462.61,False,1850.44,True,False,False,False,0
+costa patricia,BK00102,patricia.costa745@outlook.com,Spain,senza glutine,2024-09-25,2024-09-25,2024-09-29,4,direct,EUR,398.59,398.59,False,1594.36,True,False,False,False,0
+costa simone,BK00568,simone.costa115@icloud.com,UAE,pesce,2025-01-12,2025-01-12,2025-01-15,3,OTA,USD,164.19,151.05,False,453.15,False,False,False,False,0
+costa sophie,BK00574,sophie.costa631@gmail.com,Italy,italiana,2025-01-13,2025-01-13,2025-01-16,3,OTA,EUR,248.73,248.73,False,746.19,False,False,False,False,0
+david esposito,BK00080,david.esposito935@icloud.com,Spain,internazionale,2024-09-22,2024-09-22,2024-09-24,2,direct,EUR,379.78,379.78,False,759.56,True,False,False,False,0
+david garcia,BK00268,david.garcia476@yahoo.com,Germany,internazionale,2024-11-08,2024-11-08,2024-11-11,3,OTA,EUR,207.02,207.02,False,621.06,False,False,False,False,0
+david klein,BK00146,david.klein74@outlook.com,UK,kosher,2024-10-05,2024-10-05,2024-10-09,4,OTA,EUR,222.06,222.06,False,888.24,False,False,False,False,0
+david lopez,BK00288,david.lopez770@outlook.com,Germany,italiana,2024-11-15,2024-11-15,2024-11-17,2,OTA,EUR,245.94,245.94,False,491.88,False,False,False,False,0
+david martinez,BK00174,david.martinez268@icloud.com,Switzerland,vegetariana,2024-10-12,2024-10-12,2024-10-13,1,direct,EUR,225.27,225.27,False,225.27,False,False,False,False,0
+david nowak,BK00179,david.nowak726@yahoo.com,Italy,senza glutine,2024-10-13,2024-10-13,2024-10-14,1,OTA,EUR,273.4,273.4,False,273.4,False,False,False,False,0
+david petrov,BK00715,david.petrov511@gmail.com,France,italiana,2025-02-22,2025-02-22,2025-02-24,2,OTA,EUR,226.53,226.53,False,453.06,False,False,False,False,0
+david wagner,BK00098,david.wagner688@outlook.com,Spain,kosher,2024-09-25,2024-09-25,2024-09-29,4,direct,EUR,412.51,412.51,False,1650.04,True,False,False,False,0
+david watanabe,BK00440,david.watanabe586@icloud.com,Netherlands,vegana,2024-12-17,2024-12-17,2024-12-19,2,OTA,EUR,413.22,413.22,False,826.44,True,False,False,False,0
+david yamamoto,BK00320,david.yamamoto794@icloud.com,USA,vegetariana,2024-11-28,2024-11-28,2024-11-30,2,direct,EUR,258.96,258.96,False,517.92,False,False,False,False,0
+diego dubois,BK00244,diego.dubois89@yahoo.com,Spain,pesce,2024-11-02,2024-11-02,2024-11-03,1,OTA,EUR,233.17,233.17,False,233.17,False,False,False,False,0
+diego marino,BK00300,diego.marino940@yahoo.com,UK,pesce,2024-11-19,2024-11-19,2024-11-21,2,OTA,EUR,249.83,249.83,False,499.66,False,False,False,False,0
+diego novak,BK00339,diego.novak49@outlook.com,France,italiana,2024-12-03,2024-12-03,2024-12-06,3,direct,EUR,366.55,366.55,False,1099.65,True,False,False,False,1
+diego petrov,BK00453,diego.petrov767@gmail.com,Japan,senza glutine,2024-12-19,2024-12-19,2024-12-22,3,direct,USD,401.49,369.37,False,1108.11,True,False,False,False,1
+diego ricci,BK00729,diego.ricci233@gmail.com,Netherlands,vegetariana,2025-02-27,2025-02-27,2025-03-01,2,OTA,EUR,204.73,204.73,False,409.46,False,False,False,False,0
+diego rossi,BK00406,diego.rossi114@outlook.com,UAE,kosher,2024-12-12,2024-12-12,2024-12-16,4,OTA,EUR,466.09,466.09,False,1864.36,True,False,False,False,0
+diego suzuki,BK00302,diego.suzuki616@yahoo.com,Switzerland,internazionale,2024-11-21,2024-11-21,2024-11-27,6,OTA,EUR,216.13,216.13,False,1296.78,False,False,False,False,0
+diego tanaka,BK00442,diego.tanaka136@yahoo.com,Netherlands,vegana,2024-12-18,2024-12-18,2024-12-20,2,OTA,EUR,388.05,388.05,False,776.1,True,False,False,False,1
+diego yamamoto,BK00559,diego.yamamoto645@icloud.com,UAE,vegana,2025-01-07,2025-01-07,2025-01-14,7,OTA,EUR,238.78,238.78,False,1671.46,False,False,False,False,0
+dmitri dubois,BK00488,dmitri.dubois857@yahoo.com,Italy,senza glutine,2024-12-24,2024-12-24,2024-12-26,2,direct,EUR,392.7,392.7,False,785.4,True,False,False,False,0
+dmitri ferreira,BK00053,dmitri.ferreira468@yahoo.com,Germany,vegetariana,2024-09-18,2024-09-18,2024-09-21,3,direct,EUR,404.38,404.38,False,1213.14,True,False,False,False,0
+dmitri hassan,BK00129,dmitri.hassan114@icloud.com,Netherlands,senza glutine,2024-09-29,2024-09-29,2024-10-02,3,direct,EUR,441.52,441.52,False,1324.56,True,False,False,False,1
+dmitri kaczmarek,BK00580,dmitri.kaczmarek504@outlook.com,France,vegana,2025-01-14,2025-01-14,2025-01-15,1,OTA,EUR,263.28,263.28,False,263.28,False,False,False,False,0
+dmitri leroy,BK00426,dmitri.leroy881@yahoo.com,France,senza glutine,2024-12-15,2024-12-15,2024-12-16,1,OTA,USD,410.95,378.07,False,378.07,True,False,False,False,0
+dmitri lopez,BK00764,dmitri.lopez913@icloud.com,USA,halal,2025-03-10,2025-03-10,2025-03-13,3,OTA,EUR,248.15,248.15,False,744.45,False,False,False,False,0
+dmitri martinez,BK00361,dmitri.martinez595@outlook.com,Italy,vegana,2024-12-05,2024-12-05,2024-12-08,3,OTA,EUR,459.63,459.63,False,1378.89,True,False,False,False,1
+dubois emma,BK00680,emma.dubois719@yahoo.com,France,kosher,2025-02-11,2025-02-11,2025-02-16,5,OTA,EUR,239.11,239.11,False,1195.55,False,False,False,False,1
+dubois isabella,BK00532,isabella.dubois250@gmail.com,Germany,halal,2024-12-31,2024-12-31,2025-01-03,3,direct,USD,472.56,434.76,False,1304.28,True,False,False,False,0
+dubois john,BK00438,john.dubois735@gmail.com,Germany,vegana,2024-12-16,2024-12-16,2024-12-19,3,OTA,EUR,445.05,445.05,False,1335.15,True,False,False,False,0
+dubois patricia,BK00329,patricia.dubois13@gmail.com,USA,vegana,2024-11-30,2024-11-30,2024-12-01,1,OTA,EUR,268.58,268.58,False,268.58,False,False,False,False,0
+dubois yuki,BK00528,yuki.dubois934@outlook.com,Switzerland,internazionale,2024-12-30,2024-12-30,2025-01-02,3,OTA,USD,361.14,332.25,False,996.75,True,False,False,False,0
+ekaterina girard,BK00315,ekaterina.girard388@outlook.com,Italy,halal,2024-11-26,2024-11-26,2024-12-01,5,OTA,EUR,254.21,254.21,False,1271.05,False,False,False,False,1
+ekaterina leroy,BK00625,ekaterina.leroy148@icloud.com,UK,internazionale,2025-01-24,2025-01-24,2025-01-26,2,OTA,EUR,237.18,237.18,False,474.36,False,False,False,False,0
+ekaterina ricci,BK00575,ekaterina.ricci299@icloud.com,France,halal,2025-01-13,2025-01-13,2025-01-14,1,OTA,EUR,278.63,278.63,False,278.63,False,False,False,False,0
+ekaterina sokolov,BK00079,ekaterina.sokolov235@yahoo.com,Germany,senza glutine,2024-09-22,2024-09-22,2024-09-25,3,direct,EUR,400.34,400.34,False,1201.02,True,False,False,False,1
+ekaterina watanabe,BK00360,ekaterina.watanabe172@icloud.com,Japan,pesce,2024-12-05,2024-12-05,2024-12-06,1,direct,EUR,333.23,333.23,False,333.23,True,False,False,False,1
+elena kaczmarek,BK00763,elena.kaczmarek277@icloud.com,Spain,internazionale,2025-03-10,2025-03-10,2025-03-13,3,OTA,EUR,233.05,233.05,False,699.15,False,False,False,False,0
+elena martinez,BK00061,elena.martinez25@icloud.com,Germany,vegana,2024-09-19,2024-09-19,2024-09-24,5,OTA,USD,408.03,375.39,False,1876.95,True,False,False,False,0
+elena nakamura,BK00013,elena.nakamura736@yahoo.com,UAE,internazionale,2024-09-11,2024-09-11,2024-09-16,5,OTA,EUR,392.6,392.6,False,1963.0,True,False,False,False,0
+elena petrov,BK00470,elena.petrov538@icloud.com,Spain,vegana,2024-12-22,2024-12-22,2024-12-26,4,OTA,EUR,383.65,383.65,False,1534.6,True,False,False,False,0
+emma esposito,BK00258,emma.esposito169@icloud.com,USA,senza glutine,2024-11-06,2024-11-06,2024-11-08,2,OTA,EUR,224.13,224.13,False,448.26,False,False,False,False,0
+emma kim,BK00539,emma.kim509@icloud.com,Italy,internazionale,2025-01-03,2025-01-03,2025-01-06,3,OTA,EUR,249.23,249.23,False,747.69,False,False,False,False,0
+emma moreau,BK00520,emma.moreau256@icloud.com,Netherlands,vegana,2024-12-28,2024-12-28,2024-12-31,3,direct,EUR,376.98,376.98,False,1130.94,True,False,True,False,1
+emma novak,BK00455,emma.novak334@gmail.com,UAE,vegana,2024-12-20,2024-12-20,2024-12-24,4,OTA,EUR,415.93,415.93,False,1663.72,True,False,False,False,0
+emma park,BK00642,emma.park149@outlook.com,Italy,internazionale,2025-01-29,2025-01-29,2025-02-02,4,OTA,EUR,185.54,185.54,False,742.16,False,False,False,False,0
+emma patel,BK00252,emma.patel937@icloud.com,Italy,internazionale,2024-11-04,2024-11-04,2024-11-06,2,OTA,EUR,236.3,236.3,False,472.6,False,False,False,False,0
+emma weber,BK00035,emma.weber577@icloud.com,Spain,italiana,2024-09-15,2024-09-15,2024-09-18,3,direct,USD,421.66,387.93,False,1163.79,True,False,False,False,0
+erik fischer,BK00457,erik.fischer793@icloud.com,Spain,pesce,2024-12-20,2024-12-20,2024-12-23,3,direct,EUR,409.62,409.62,False,1228.86,True,False,False,False,1
+erik garcia,BK00014,erik.garcia526@yahoo.com,Italy,kosher,2024-09-12,2024-09-12,2024-09-14,2,direct,EUR,383.74,383.74,False,767.48,True,False,False,False,0
+erik greco,BK00615,erik.greco835@yahoo.com,Japan,senza glutine,2025-01-22,2025-01-22,2025-01-24,2,direct,EUR,241.32,241.32,False,482.64,False,False,False,False,0
+erik marino,BK00283,erik.marino249@gmail.com,Switzerland,senza glutine,2024-11-14,2024-11-14,2024-11-17,3,OTA,EUR,204.17,204.17,False,612.51,False,False,False,False,0
+erik moreau,BK00712,erik.moreau438@outlook.com,France,senza glutine,2025-02-20,2025-02-20,2025-02-23,3,direct,EUR,234.22,234.22,False,702.66,False,False,False,False,0
+erik novak,BK00617,erik.novak197@yahoo.com,Netherlands,pesce,2025-01-23,2025-01-23,2025-01-25,2,OTA,EUR,226.48,226.48,False,452.96,False,False,False,False,1
+erik patel,BK00608,erik.patel321@gmail.com,Germany,halal,2025-01-20,2025-01-20,2025-01-23,3,direct,EUR,270.28,270.28,False,810.84,False,False,False,False,1
+erik ricci,BK00531,erik.ricci505@outlook.com,UK,halal,2024-12-30,2024-12-30,2025-01-05,6,OTA,EUR,534.24,534.24,False,3205.44,True,False,False,False,1
+esposito fatima,BK00171,fatima.esposito848@yahoo.com,Japan,vegana,2024-10-11,2024-10-11,2024-10-12,1,OTA,EUR,222.94,222.94,False,222.94,False,False,False,False,0
+esposito giulia,BK00226,giulia.esposito937@gmail.com,UK,kosher,2024-10-27,2024-10-27,2024-10-30,3,OTA,EUR,227.39,227.39,False,682.17,False,False,False,False,1
+esposito kenji,BK00479,kenji.esposito334@icloud.com,Germany,italiana,2024-12-23,2024-12-23,2024-12-30,7,OTA,EUR,395.37,395.37,False,2767.59,True,False,False,False,0
+esposito marco,BK00088,marco.esposito892@outlook.com,UK,vegana,2024-09-23,2024-09-23,2024-09-26,3,direct,EUR,431.21,431.21,False,1293.63,True,False,False,False,0
+esposito matteo,BK00654,matteo.esposito468@gmail.com,UAE,senza glutine,2025-02-02,2025-02-02,2025-02-04,2,OTA,EUR,213.59,213.59,False,427.18,False,False,False,False,0
+esposito olga,BK00503,olga.esposito26@icloud.com,France,halal,2024-12-25,2024-12-25,2024-12-27,2,OTA,EUR,384.69,384.69,False,769.38,True,False,False,False,0
+esposito olivia,BK00332,olivia.esposito109@icloud.com,UAE,internazionale,2024-12-02,2024-12-02,2024-12-05,3,OTA,USD,380.96,350.48,False,1051.44,True,False,False,False,0
+esposito sara,BK00402,sara.esposito183@gmail.com,UAE,halal,2024-12-11,2024-12-11,2024-12-13,2,OTA,EUR,510.57,510.57,False,1021.14,True,False,False,False,0
+esposito thomas,BK00089,thomas.esposito557@yahoo.com,Japan,kosher,2024-09-23,2024-09-23,2024-09-26,3,OTA,EUR,374.79,374.79,False,1124.37,True,False,False,False,0
+esposito yuki,BK00567,yuki.esposito439@gmail.com,Italy,internazionale,2025-01-11,2025-01-11,2025-01-15,4,OTA,EUR,233.97,233.97,False,935.88,False,False,False,False,0
+fatima fischer,BK00138,fatima.fischer815@icloud.com,France,italiana,2024-10-03,2024-10-03,2024-10-04,1,OTA,EUR,233.5,233.5,False,233.5,False,False,False,False,0
+fatima klein,BK00429,fatima.klein287@icloud.com,USA,italiana,2024-12-15,2024-12-15,2024-12-22,7,OTA,EUR,447.06,447.06,False,3129.42,True,False,False,False,0
+fatima lopez,BK00261,fatima.lopez743@gmail.com,Spain,halal,2024-11-07,2024-11-07,2024-11-12,5,OTA,EUR,233.72,233.72,False,1168.6,False,False,False,False,1
+fatima petrov,BK00156,fatima.petrov112@yahoo.com,France,senza glutine,2024-10-07,2024-10-07,2024-10-08,1,OTA,EUR,242.74,242.74,False,242.74,False,False,False,False,0
+fatima singh,BK00624,fatima.singh471@yahoo.com,Italy,vegana,2025-01-24,2025-01-24,2025-01-26,2,OTA,EUR,222.16,222.16,False,444.32,False,False,False,False,0
+fatima smith,BK00704,fatima.smith870@gmail.com,UAE,kosher,2025-02-18,2025-02-18,2025-02-20,2,direct,EUR,228.88,228.88,False,457.76,False,False,False,False,0
+federica fischer,BK00511,federica.fischer680@icloud.com,Germany,kosher,2024-12-27,2024-12-27,2025-01-01,5,OTA,EUR,499.79,499.79,False,2498.95,True,False,False,False,1
+federica kowalski,BK00705,federica.kowalski253@icloud.com,UK,vegana,2025-02-18,2025-02-18,2025-02-20,2,OTA,EUR,259.65,259.65,False,519.3,False,False,False,False,0
+federica muller,BK00435,federica.muller883@yahoo.com,Spain,kosher,2024-12-16,2024-12-16,2024-12-20,4,direct,EUR,442.49,442.49,False,1769.96,True,False,False,False,0
+federica schmidt,BK00248,federica.schmidt35@yahoo.com,Japan,senza glutine,2024-11-03,2024-11-03,2024-11-05,2,OTA,EUR,245.46,245.46,False,490.92,False,False,False,False,0
+federica weber,BK00699,federica.weber397@icloud.com,UAE,italiana,2025-02-16,2025-02-16,2025-02-19,3,OTA,USD,218.05,200.61,False,601.83,False,False,False,False,0
+fernandez isabella,BK00579,isabella.fernandez575@outlook.com,France,vegetariana,2025-01-14,2025-01-14,2025-01-16,2,OTA,EUR,181.33,181.33,False,362.66,False,False,False,False,0
+fernandez james,BK00666,james.fernandez189@outlook.com,USA,senza glutine,2025-02-07,2025-02-07,2025-02-08,1,OTA,EUR,207.66,207.66,False,207.66,False,False,False,False,0
+fernandez layla,BK00090,layla.fernandez825@gmail.com,Germany,vegana,2024-09-23,2024-09-23,2024-09-30,7,OTA,EUR,355.18,355.18,False,2486.26,True,False,False,False,0
+fernandez luca,BK00686,luca.fernandez472@yahoo.com,Italy,kosher,2025-02-13,2025-02-13,2025-02-14,1,OTA,EUR,262.78,262.78,False,262.78,False,False,False,False,0
+fernandez paolo,BK00670,paolo.fernandez773@outlook.com,UK,vegana,2025-02-08,2025-02-08,2025-02-11,3,OTA,EUR,181.71,181.71,False,545.13,False,False,False,False,0
+fernandez pierre,BK00473,pierre.fernandez972@icloud.com,Italy,internazionale,2024-12-22,2024-12-22,2024-12-24,2,OTA,EUR,443.52,443.52,False,887.04,True,False,False,False,0
+fernandez valentina,BK00067,valentina.fernandez290@yahoo.com,UK,pesce,2024-09-20,2024-09-20,2024-09-23,3,OTA,EUR,402.17,402.17,False,1206.51,True,False,False,False,1
+fernandez youssef,BK00533,youssef.fernandez79@icloud.com,UAE,internazionale,2024-12-31,2024-12-31,2025-01-04,4,direct,USD,384.98,354.18,False,1416.72,True,False,False,False,1
+ferrari giorgia,BK00060,giorgia.ferrari942@gmail.com,UAE,vegetariana,2024-09-19,2024-09-19,2024-09-25,6,OTA,EUR,461.75,461.75,False,2770.5,True,False,False,False,1
+ferrari giulia,BK00400,giulia.ferrari125@icloud.com,Japan,kosher,2024-12-11,2024-12-11,2024-12-14,3,OTA,USD,431.23,396.73,False,1190.19,True,False,False,False,1
+ferrari henri,BK00561,henri.ferrari895@yahoo.com,USA,halal,2025-01-08,2025-01-08,2025-01-12,4,OTA,EUR,280.19,280.19,False,1120.76,False,False,False,False,0
+ferrari kenji,BK00068,kenji.ferrari456@outlook.com,Italy,senza glutine,2024-09-20,2024-09-20,2024-09-22,2,OTA,EUR,460.73,460.73,False,921.46,True,False,False,False,0
+ferrari laura,BK00151,laura.ferrari572@icloud.com,Japan,pesce,2024-10-06,2024-10-06,2024-10-08,2,direct,EUR,231.38,231.38,False,462.76,False,False,False,False,0
+ferrari lucia,BK00263,lucia.ferrari419@yahoo.com,Netherlands,italiana,2024-11-07,2024-11-07,2024-11-09,2,OTA,USD,245.99,226.31,False,452.62,False,False,False,False,0
+ferrari valentina,BK00069,valentina.ferrari732@yahoo.com,Switzerland,halal,2024-09-20,2024-09-20,2024-09-25,5,OTA,USD,475.94,437.86,False,2189.3,True,False,False,False,0
+ferreira giorgia,BK00500,giorgia.ferreira333@yahoo.com,USA,italiana,2024-12-25,2024-12-25,2024-12-27,2,OTA,EUR,399.46,399.46,False,798.92,True,False,False,False,0
+ferreira giulia,BK00558,giulia.ferreira988@outlook.com,USA,vegana,2025-01-07,2025-01-07,2025-01-08,1,direct,EUR,254.79,254.79,False,254.79,False,False,False,False,0
+ferreira john,BK00669,john.ferreira872@gmail.com,Spain,vegana,2025-02-08,2025-02-08,2025-02-10,2,OTA,EUR,288.43,288.43,False,576.86,False,False,False,False,0
+ferreira klaus,BK00463,klaus.ferreira545@yahoo.com,UAE,kosher,2024-12-21,2024-12-21,2024-12-26,5,direct,EUR,414.69,414.69,False,2073.45,True,False,False,False,1
+ferreira layla,BK00563,layla.ferreira844@yahoo.com,UAE,senza glutine,2025-01-09,2025-01-09,2025-01-10,1,OTA,EUR,272.25,272.25,False,272.25,False,False,False,False,0
+ferreira olga,BK00536,olga.ferreira435@gmail.com,USA,pesce,2025-01-01,2025-01-01,2025-01-04,3,OTA,EUR,260.83,260.83,False,782.49,False,False,False,False,0
+ferreira paolo,BK00684,paolo.ferreira565@yahoo.com,USA,vegetariana,2025-02-13,2025-02-13,2025-02-15,2,OTA,EUR,249.62,249.62,False,499.24,False,False,False,False,1
+ferreira thomas,BK00702,thomas.ferreira860@yahoo.com,Japan,internazionale,2025-02-17,2025-02-17,2025-02-18,1,direct,EUR,233.73,233.73,False,233.73,False,False,False,False,0
+fischer jean,BK00044,jean.fischer576@yahoo.com,Spain,pesce,2024-09-16,2024-09-16,2024-09-18,2,OTA,EUR,379.1,379.1,False,758.2,True,False,False,False,1
+fischer layla,BK00454,layla.fischer144@outlook.com,Japan,internazionale,2024-12-20,2024-12-20,2024-12-25,5,OTA,EUR,478.72,478.72,False,2393.6,True,False,False,False,1
+fischer luca,BK00577,luca.fischer656@icloud.com,Switzerland,kosher,2025-01-13,2025-01-13,2025-01-15,2,OTA,EUR,252.12,252.12,False,504.24,False,False,False,False,0
+fischer paolo,BK00294,paolo.fischer70@gmail.com,Japan,halal,2024-11-17,2024-11-17,2024-11-19,2,OTA,EUR,207.24,207.24,False,414.48,False,False,False,False,0
+fischer priya,BK00345,priya.fischer968@outlook.com,Japan,internazionale,2024-12-03,2024-12-03,2024-12-06,3,direct,EUR,347.25,347.25,False,1041.75,True,False,False,False,0
+fischer simone,BK00450,simone.fischer343@icloud.com,Netherlands,kosher,2024-12-19,2024-12-19,2024-12-23,4,direct,EUR,411.93,411.93,False,1647.72,True,False,False,False,0
+fischer sophie,BK00538,sophie.fischer499@outlook.com,France,internazionale,2025-01-02,2025-01-02,2025-01-04,2,OTA,EUR,229.3,229.3,False,458.6,False,False,False,False,1
+fischer youssef,BK00448,youssef.fischer205@outlook.com,Germany,kosher,2024-12-18,2024-12-18,2024-12-23,5,OTA,EUR,408.48,408.48,False,2042.4,True,False,False,False,1
+fischer yuki,BK00007,yuki.fischer633@outlook.com,Switzerland,kosher,2024-09-11,2024-09-11,2024-09-16,5,OTA,EUR,429.37,429.37,False,2146.85,True,False,False,False,0
+francesco girard,BK00522,francesco.girard327@outlook.com,UAE,internazionale,2024-12-28,2024-12-28,2024-12-30,2,direct,EUR,448.18,448.18,False,896.36,True,False,False,False,1
+francesco hassan,BK00586,francesco.hassan708@icloud.com,Switzerland,vegetariana,2025-01-15,2025-01-15,2025-01-17,2,OTA,USD,200.98,184.9,False,369.8,False,False,False,False,0
+francesco ibrahim,BK00036,francesco.ibrahim339@yahoo.com,UAE,halal,2024-09-15,2024-09-15,2024-09-19,4,OTA,EUR,457.73,457.73,False,1830.92,True,False,False,False,0
+francesco klein,BK00653,francesco.klein547@outlook.com,Japan,kosher,2025-02-02,2025-02-02,2025-02-05,3,OTA,EUR,266.05,266.05,False,798.15,False,False,False,False,0
+francesco kobayashi,BK00310,francesco.kobayashi677@gmail.com,Italy,italiana,2024-11-23,2024-11-23,2024-11-28,5,OTA,EUR,216.07,216.07,False,1080.35,False,False,False,False,0
+francesco kowalski,BK00547,francesco.kowalski958@outlook.com,Netherlands,kosher,2025-01-03,2025-01-03,2025-01-05,2,direct,EUR,264.85,264.85,False,529.7,False,False,False,False,0
+francesco lefevre,BK00064,francesco.lefevre110@icloud.com,Japan,pesce,2024-09-20,2024-09-20,2024-09-22,2,direct,EUR,407.39,407.39,False,814.78,True,False,False,False,0
+francesco nakamura,BK00746,francesco.nakamura440@gmail.com,Netherlands,halal,2025-03-05,2025-03-05,2025-03-08,3,direct,EUR,279.38,279.38,False,838.14,False,False,False,False,0
+francesco petrov,BK00383,francesco.petrov140@gmail.com,USA,senza glutine,2024-12-08,2024-12-08,2024-12-10,2,direct,EUR,475.84,475.84,False,951.68,True,False,False,False,0
+francesco rossi,BK00017,francesco.rossi136@icloud.com,Japan,senza glutine,2024-09-12,2024-09-12,2024-09-19,7,OTA,EUR,431.7,431.7,False,3021.9,True,False,False,False,0
+francesco sharma,BK00271,francesco.sharma421@yahoo.com,Italy,internazionale,2024-11-09,2024-11-09,2024-11-11,2,OTA,USD,235.5,216.66,False,433.32,False,False,False,False,0
+francesco silva,BK00588,francesco.silva268@gmail.com,Netherlands,halal,2025-01-16,2025-01-16,2025-01-17,1,OTA,EUR,283.62,283.62,False,283.62,False,False,False,False,0
+francesco singh,BK00047,francesco.singh362@yahoo.com,Switzerland,senza glutine,2024-09-17,2024-09-17,2024-09-20,3,OTA,EUR,402.32,402.32,False,1206.96,True,False,False,False,0
+francesco weber,BK00037,francesco.weber86@gmail.com,Italy,internazionale,2024-09-15,2024-09-15,2024-09-17,2,direct,EUR,458.65,458.65,False,917.3,True,False,False,False,0
+garcia james,BK00046,james.garcia440@outlook.com,USA,pesce,2024-09-17,2024-09-17,2024-09-20,3,OTA,USD,361.09,332.2,False,996.6,True,False,False,False,0
+garcia jean,BK00628,jean.garcia26@outlook.com,UAE,senza glutine,2025-01-25,2025-01-25,2025-01-28,3,direct,EUR,217.82,217.82,False,653.46,False,False,False,False,0
+garcia kenji,BK00313,kenji.garcia343@outlook.com,Netherlands,senza glutine,2024-11-24,2024-11-24,2024-11-26,2,OTA,EUR,252.25,252.25,False,504.5,False,False,False,False,0
+garcia layla,BK00374,layla.garcia520@icloud.com,Japan,halal,2024-12-06,2024-12-06,2024-12-07,1,OTA,EUR,452.42,452.42,False,452.42,True,False,False,False,1
+garcia lucia,BK00441,lucia.garcia96@icloud.com,Japan,vegana,2024-12-18,2024-12-18,2024-12-24,6,OTA,EUR,462.73,462.73,False,2776.38,True,False,False,False,0
+garcia marie,BK00076,marie.garcia155@outlook.com,France,pesce,2024-09-21,2024-09-21,2024-09-24,3,OTA,EUR,422.06,422.06,False,1266.18,True,False,False,False,0
+garcia nikolai,BK00603,nikolai.garcia777@yahoo.com,France,vegana,2025-01-18,2025-01-18,2025-01-20,2,OTA,USD,238.52,219.44,False,438.88,False,False,False,False,0
+giorgia girard,BK00527,giorgia.girard336@yahoo.com,France,kosher,2024-12-30,2024-12-30,2025-01-03,4,OTA,EUR,473.82,473.82,False,1895.28,True,False,False,False,0
+giorgia greco,BK00075,giorgia.greco732@icloud.com,Germany,pesce,2024-09-21,2024-09-21,2024-09-23,2,direct,USD,459.24,422.5,False,845.0,True,False,False,False,0
+giorgia kim,BK00706,giorgia.kim175@yahoo.com,Netherlands,vegana,2025-02-19,2025-02-19,2025-02-20,1,OTA,EUR,272.7,272.7,False,272.7,False,False,False,False,0
+giorgia moreau,BK00043,giorgia.moreau980@gmail.com,Japan,senza glutine,2024-09-16,2024-09-16,2024-09-21,5,direct,USD,348.38,320.51,False,1602.55,True,False,False,False,0
+giorgia muller,BK00523,giorgia.muller511@yahoo.com,France,kosher,2024-12-29,2024-12-29,2024-12-31,2,OTA,USD,390.21,358.99,False,717.98,True,False,False,False,0
+giorgia romano,BK00769,giorgia.romano661@gmail.com,Germany,pesce,2025-03-10,2025-03-10,2025-03-14,4,OTA,USD,272.26,250.48,False,1001.92,False,False,False,False,0
+girard isabella,BK00063,isabella.girard57@gmail.com,Netherlands,vegetariana,2024-09-19,2024-09-19,2024-09-24,5,direct,USD,422.37,388.58,False,1942.9,True,False,False,False,0
+girard kenji,BK00208,kenji.girard958@outlook.com,Switzerland,halal,2024-10-21,2024-10-21,2024-10-23,2,OTA,USD,236.7,217.76,False,435.52,False,False,False,False,1
+girard robert,BK00028,robert.girard588@yahoo.com,UK,vegana,2024-09-14,2024-09-14,2024-09-17,3,OTA,EUR,412.99,412.99,False,1238.97,True,False,False,False,0
+girard simone,BK00325,simone.girard969@gmail.com,Netherlands,italiana,2024-11-29,2024-11-29,2024-12-02,3,OTA,EUR,273.4,273.4,False,820.2,False,False,False,False,0
+giulia johnson,BK00135,giulia.johnson634@outlook.com,France,vegana,2024-10-02,2024-10-02,2024-10-06,4,direct,EUR,205.13,205.13,False,820.52,False,False,False,False,0
+giulia marino,BK00745,giulia.marino913@yahoo.com,Spain,vegetariana,2025-03-05,2025-03-05,2025-03-07,2,OTA,EUR,216.36,216.36,False,432.72,False,False,False,False,1
+giulia sokolov,BK00724,giulia.sokolov521@outlook.com,UAE,halal,2025-02-25,2025-02-25,2025-02-27,2,OTA,EUR,271.81,271.81,False,543.62,False,False,False,False,0
+greco ingrid,BK00107,ingrid.greco932@gmail.com,Netherlands,halal,2024-09-26,2024-09-26,2024-09-30,4,direct,EUR,424.37,424.37,False,1697.48,True,False,False,False,0
+greco lucia,BK00161,lucia.greco90@gmail.com,Italy,halal,2024-10-09,2024-10-09,2024-10-11,2,direct,EUR,168.17,168.17,False,336.34,False,False,False,False,0
+greco pierre,BK00375,pierre.greco24@outlook.com,France,kosher,2024-12-07,2024-12-07,2024-12-11,4,OTA,EUR,430.34,430.34,False,1721.36,True,False,False,False,0
+greco youssef,BK00730,youssef.greco609@yahoo.com,USA,kosher,2025-02-27,2025-02-27,2025-03-01,2,OTA,EUR,229.19,229.19,False,458.38,False,False,False,False,1
+hans kim,BK00005,hans.kim909@gmail.com,Switzerland,senza glutine,2024-09-10,2024-09-10,2024-09-13,3,direct,EUR,460.27,460.27,False,1380.81,True,False,False,False,1
+hans kowalski,BK00734,hans.kowalski836@outlook.com,UK,kosher,2025-03-01,2025-03-01,2025-03-03,2,OTA,EUR,230.69,230.69,False,461.38,False,False,False,False,0
+hans lopez,BK00571,hans.lopez260@yahoo.com,Germany,internazionale,2025-01-12,2025-01-12,2025-01-13,1,OTA,EUR,273.44,273.44,False,273.44,False,False,False,False,0
+hans nilsson,BK00537,hans.nilsson554@yahoo.com,Germany,senza glutine,2025-01-01,2025-01-01,2025-01-02,1,OTA,EUR,259.01,259.01,False,259.01,False,False,False,False,0
+hans rossi,BK00071,hans.rossi455@outlook.com,Spain,kosher,2024-09-21,2024-09-21,2024-09-24,3,direct,EUR,393.59,393.59,False,1180.77,True,False,False,False,0
+hans schmidt,BK00499,hans.schmidt703@icloud.com,UK,halal,2024-12-25,2024-12-25,2024-12-26,1,OTA,EUR,391.09,391.09,False,391.09,True,False,False,False,1
+hans tanaka,BK00449,hans.tanaka387@icloud.com,Netherlands,senza glutine,2024-12-19,2024-12-19,2024-12-21,2,direct,USD,481.66,443.13,False,886.26,True,False,False,False,0
+hassan james,BK00019,james.hassan319@gmail.com,Italy,italiana,2024-09-12,2024-09-12,2024-09-18,6,direct,EUR,371.13,371.13,False,2226.78,True,False,False,False,0
+hassan kenji,BK00030,kenji.hassan370@yahoo.com,Italy,kosher,2024-09-14,2024-09-14,2024-09-17,3,direct,USD,355.48,327.04,False,981.12,True,False,False,False,0
+hassan patricia,BK00623,patricia.hassan567@icloud.com,France,italiana,2025-01-24,2025-01-24,2025-01-25,1,direct,EUR,243.1,243.1,False,243.1,False,False,False,False,0
+hassan william,BK00649,william.hassan973@icloud.com,France,vegana,2025-02-01,2025-02-01,2025-02-05,4,OTA,USD,266.7,245.36,False,981.44,False,False,False,False,0
+hassan yuki,BK00253,yuki.hassan938@gmail.com,USA,vegana,2024-11-05,2024-11-05,2024-11-10,5,OTA,EUR,206.33,206.33,False,1031.65,False,False,False,False,0
+henri kaczmarek,BK00595,henri.kaczmarek739@yahoo.com,UAE,vegetariana,2025-01-17,2025-01-17,2025-01-19,2,OTA,EUR,241.33,241.33,False,482.66,False,False,False,False,0
+henri kowalski,BK00482,henri.kowalski962@yahoo.com,Italy,halal,2024-12-23,2024-12-23,2024-12-26,3,direct,EUR,376.22,376.22,False,1128.66,True,False,False,False,0
+henri kumar,BK00525,henri.kumar220@gmail.com,USA,vegetariana,2024-12-30,2024-12-30,2025-01-01,2,OTA,EUR,406.75,406.75,False,813.5,True,False,False,False,1
+henri leroy,BK00093,henri.leroy611@gmail.com,Germany,kosher,2024-09-24,2024-09-24,2024-09-27,3,OTA,EUR,426.12,426.12,False,1278.36,True,False,False,False,0
+henri novak,BK00721,henri.novak637@yahoo.com,France,vegetariana,2025-02-24,2025-02-24,2025-03-01,5,OTA,USD,239.24,220.1,False,1100.5,False,False,False,False,1
+henri schmidt,BK00737,henri.schmidt423@icloud.com,UK,pesce,2025-03-02,2025-03-02,2025-03-05,3,OTA,EUR,288.77,288.77,False,866.31,False,False,False,False,0
+henri sharma,BK00410,henri.sharma27@gmail.com,UK,vegana,2024-12-12,2024-12-12,2024-12-14,2,OTA,EUR,425.93,425.93,False,851.86,True,False,False,False,1
+henri singh,BK00054,henri.singh463@gmail.com,UAE,vegana,2024-09-18,2024-09-18,2024-09-26,8,direct,EUR,435.33,435.33,False,3482.64,True,False,False,False,1
+henri sokolov,BK00562,henri.sokolov657@outlook.com,Italy,vegana,2025-01-08,2025-01-08,2025-01-12,4,direct,EUR,178.7,178.7,False,714.8,False,False,False,False,0
+henri tanaka,BK00153,henri.tanaka253@icloud.com,UAE,pesce,2024-10-06,2024-10-06,2024-10-08,2,OTA,EUR,307.28,307.28,False,614.56,False,False,False,False,0
+ibrahim kenji,BK00600,kenji.ibrahim96@icloud.com,USA,kosher,2025-01-18,2025-01-18,2025-01-20,2,direct,EUR,199.95,199.95,False,399.9,False,False,False,False,0
+ibrahim klaus,BK00148,klaus.ibrahim744@gmail.com,UK,italiana,2024-10-05,2024-10-05,2024-10-06,1,OTA,EUR,216.71,216.71,False,216.71,False,False,False,False,0
+ibrahim omar,BK00490,omar.ibrahim674@yahoo.com,Japan,italiana,2024-12-25,2024-12-25,2024-12-28,3,OTA,USD,438.88,403.77,False,1211.31,True,False,False,False,1
+ibrahim priya,BK00550,priya.ibrahim947@icloud.com,USA,senza glutine,2025-01-05,2025-01-05,2025-01-07,2,OTA,EUR,234.65,234.65,False,469.3,False,False,False,False,0
+ibrahim simone,BK00259,simone.ibrahim259@gmail.com,Germany,italiana,2024-11-06,2024-11-06,2024-11-08,2,OTA,EUR,238.24,238.24,False,476.48,False,False,False,False,0
+ibrahim sophie,BK00319,sophie.ibrahim648@yahoo.com,France,kosher,2024-11-27,2024-11-27,2024-12-04,7,OTA,EUR,241.97,241.97,False,1693.79,False,False,False,False,1
+ibrahim thomas,BK00754,thomas.ibrahim188@icloud.com,Switzerland,senza glutine,2025-03-07,2025-03-07,2025-03-11,4,direct,USD,272.98,251.14,False,1004.56,False,False,False,False,0
+ingrid kobayashi,BK00365,ingrid.kobayashi216@gmail.com,Spain,vegetariana,2024-12-05,2024-12-05,2024-12-08,3,direct,EUR,422.72,422.72,False,1268.16,True,False,False,False,1
+ingrid marino,BK00353,ingrid.marino470@gmail.com,Italy,vegana,2024-12-04,2024-12-04,2024-12-07,3,direct,EUR,456.37,456.37,False,1369.11,True,False,False,False,0
+ingrid martinez,BK00048,ingrid.martinez126@icloud.com,Spain,internazionale,2024-09-17,2024-09-17,2024-09-23,6,OTA,EUR,365.11,365.11,False,2190.66,True,False,False,False,0
+ingrid nakamura,BK00298,ingrid.nakamura916@outlook.com,Spain,internazionale,2024-11-18,2024-11-18,2024-11-19,1,OTA,EUR,253.48,253.48,False,253.48,False,False,False,False,0
+ingrid nowak,BK00094,ingrid.nowak330@gmail.com,Spain,vegetariana,2024-09-24,2024-09-24,2024-09-27,3,direct,EUR,375.83,375.83,False,1127.49,True,False,False,False,1
+ingrid petrov,BK00356,ingrid.petrov307@yahoo.com,France,vegana,2024-12-05,2024-12-05,2024-12-08,3,OTA,EUR,426.38,426.38,False,1279.14,True,False,False,False,0
+ingrid ricci,BK00692,ingrid.ricci881@yahoo.com,Japan,italiana,2025-02-14,2025-02-14,2025-02-16,2,OTA,USD,283.73,261.03,False,522.06,False,False,False,False,0
+ingrid sokolov,BK00694,ingrid.sokolov971@outlook.com,Germany,senza glutine,2025-02-15,2025-02-15,2025-02-16,1,OTA,USD,240.99,221.71,False,221.71,False,False,False,False,0
+isabella kowalski,BK00099,isabella.kowalski570@gmail.com,Germany,italiana,2024-09-25,2024-09-25,2024-09-28,3,OTA,EUR,406.7,406.7,False,1220.1,True,False,True,False,1
+isabella kumar,BK00635,isabella.kumar318@outlook.com,Spain,vegana,2025-01-28,2025-01-28,2025-01-29,1,direct,EUR,212.07,212.07,False,212.07,False,False,False,False,1
+isabella muller,BK00269,isabella.muller78@outlook.com,Netherlands,halal,2024-11-08,2024-11-08,2024-11-10,2,direct,EUR,208.79,208.79,False,417.58,False,False,False,False,1
+ivanov james,BK00723,james.ivanov525@icloud.com,UAE,italiana,2025-02-24,2025-02-24,2025-02-26,2,direct,EUR,226.54,226.54,False,453.08,False,False,True,False,0
+ivanov jean,BK00594,jean.ivanov187@gmail.com,UAE,kosher,2025-01-17,2025-01-17,2025-01-18,1,OTA,EUR,237.95,237.95,False,237.95,False,False,False,False,0
+ivanov maria,BK00582,maria.ivanov551@icloud.com,Spain,vegetariana,2025-01-14,2025-01-14,2025-01-17,3,OTA,EUR,265.45,265.45,False,796.35,False,False,False,False,0
+ivanov olga,BK00272,olga.ivanov98@gmail.com,UK,vegetariana,2024-11-09,2024-11-09,2024-11-11,2,direct,USD,271.88,250.13,False,500.26,False,False,False,False,0
+ivanov simone,BK00255,simone.ivanov128@icloud.com,Spain,italiana,2024-11-05,2024-11-05,2024-11-06,1,OTA,EUR,196.24,196.24,False,196.24,False,False,False,False,0
+james johnson,BK00070,james.johnson856@outlook.com,Switzerland,vegana,2024-09-21,2024-09-21,2024-09-25,4,OTA,EUR,394.51,394.51,False,1578.04,True,False,False,False,0
+james kim,BK00486,james.kim167@icloud.com,Netherlands,internazionale,2024-12-24,2024-12-24,2024-12-26,2,OTA,USD,384.67,353.9,False,707.8,True,False,False,False,0
+james kobayashi,BK00103,james.kobayashi219@yahoo.com,UK,senza glutine,2024-09-25,2024-09-25,2024-09-29,4,OTA,EUR,393.43,393.43,False,1573.72,True,False,False,False,0
+james martinez,BK00397,james.martinez311@outlook.com,Netherlands,halal,2024-12-11,2024-12-11,2024-12-15,4,OTA,EUR,376.51,376.51,False,1506.04,True,False,False,False,0
+james meyer,BK00602,james.meyer889@gmail.com,Netherlands,vegana,2025-01-18,2025-01-18,2025-01-21,3,OTA,EUR,282.37,282.37,False,847.11,False,False,False,False,0
+james patel,BK00521,james.patel80@gmail.com,France,vegetariana,2024-12-28,2024-12-28,2025-01-02,5,direct,EUR,433.62,433.62,False,2168.1,True,False,False,False,1
+james schmidt,BK00480,james.schmidt360@outlook.com,Spain,pesce,2024-12-23,2024-12-23,2024-12-28,5,OTA,EUR,462.15,462.15,False,2310.75,True,False,False,False,0
+james sokolov,BK00651,james.sokolov436@outlook.com,Italy,kosher,2025-02-01,2025-02-01,2025-02-06,5,direct,EUR,248.59,248.59,False,1242.95,False,False,False,False,1
+james wagner,BK00143,james.wagner811@outlook.com,Netherlands,italiana,2024-10-04,2024-10-04,2024-10-08,4,OTA,EUR,216.25,216.25,False,865.0,False,False,False,False,0
+james weber,BK00367,james.weber701@icloud.com,UK,pesce,2024-12-06,2024-12-06,2024-12-13,7,direct,EUR,332.52,332.52,False,2327.64,True,False,False,False,1
+jean lopez,BK00540,jean.lopez859@outlook.com,Switzerland,pesce,2025-01-03,2025-01-03,2025-01-05,2,OTA,EUR,157.34,157.34,False,314.68,False,False,False,False,1
+jean martinez,BK00725,jean.martinez872@icloud.com,UK,italiana,2025-02-25,2025-02-25,2025-02-27,2,OTA,USD,270.48,248.84,False,497.68,False,False,False,False,1
+jean singh,BK00385,jean.singh468@icloud.com,UAE,vegana,2024-12-08,2024-12-08,2024-12-10,2,direct,EUR,353.52,353.52,False,707.04,True,False,False,False,0
+john kaczmarek,BK00117,john.kaczmarek807@outlook.com,Spain,vegana,2024-09-27,2024-09-27,2024-09-28,1,OTA,USD,395.24,363.62,False,363.62,True,False,False,False,0
+john klein,BK00182,john.klein103@gmail.com,Spain,halal,2024-10-14,2024-10-14,2024-10-17,3,OTA,EUR,182.26,182.26,False,546.78,False,False,False,False,0
+john kowalski,BK00078,john.kowalski861@gmail.com,Switzerland,pesce,2024-09-22,2024-09-22,2024-09-23,1,OTA,USD,486.07,447.18,False,447.18,True,False,False,False,1
+john meyer,BK00189,john.meyer313@yahoo.com,Germany,internazionale,2024-10-15,2024-10-15,2024-10-21,6,OTA,USD,225.19,207.17,False,1243.02,False,False,False,False,0
+john schmidt,BK00386,john.schmidt4@gmail.com,Japan,internazionale,2024-12-09,2024-12-09,2024-12-11,2,OTA,EUR,380.87,380.87,False,761.74,True,False,False,False,0
+john weber,BK00445,john.weber424@icloud.com,USA,internazionale,2024-12-18,2024-12-18,2024-12-23,5,OTA,EUR,435.61,435.61,False,2178.05,True,False,False,False,1
+john yamamoto,BK00689,john.yamamoto544@outlook.com,Italy,vegana,2025-02-14,2025-02-14,2025-02-15,1,OTA,EUR,187.66,187.66,False,187.66,False,False,False,False,0
+johnson klaus,BK00569,klaus.johnson470@outlook.com,USA,halal,2025-01-12,2025-01-12,2025-01-13,1,OTA,EUR,294.48,294.48,False,294.48,False,False,False,False,0
+johnson luca,BK00084,luca.johnson88@gmail.com,UK,vegana,2024-09-22,2024-09-22,2024-09-23,1,OTA,USD,367.54,338.14,False,338.14,True,False,False,False,0
+johnson maria,BK00556,maria.johnson585@icloud.com,Netherlands,senza glutine,2025-01-06,2025-01-06,2025-01-08,2,OTA,EUR,238.12,238.12,False,476.24,False,False,False,False,0
+johnson omar,BK00026,omar.johnson39@icloud.com,Netherlands,senza glutine,2024-09-14,2024-09-14,2024-09-16,2,direct,EUR,466.3,466.3,False,932.6,True,False,False,False,0
+johnson paolo,BK00241,paolo.johnson218@gmail.com,Netherlands,vegana,2024-11-01,2024-11-01,2024-11-04,3,OTA,EUR,233.55,233.55,False,700.65,False,False,False,False,0
+johnson patricia,BK00576,patricia.johnson425@icloud.com,Italy,halal,2025-01-13,2025-01-13,2025-01-15,2,OTA,USD,254.23,233.89,False,467.78,False,False,False,False,0
+johnson pierre,BK00359,pierre.johnson473@icloud.com,Germany,vegetariana,2024-12-05,2024-12-05,2024-12-11,6,OTA,USD,377.74,347.52,False,2085.12,True,False,False,False,1
+johnson priya,BK00496,priya.johnson231@outlook.com,USA,halal,2024-12-25,2024-12-25,2024-12-27,2,direct,EUR,380.37,380.37,False,760.74,True,False,False,False,0
+johnson simone,BK00758,simone.johnson212@gmail.com,Japan,vegana,2025-03-08,2025-03-08,2025-03-12,4,OTA,EUR,216.74,216.74,False,866.96,False,False,False,False,0
+kaczmarek marco,BK00347,marco.kaczmarek307@outlook.com,UK,vegetariana,2024-12-04,2024-12-04,2024-12-09,5,OTA,EUR,483.0,483.0,False,2415.0,True,False,False,False,0
+kaczmarek maria,BK00162,maria.kaczmarek422@yahoo.com,Switzerland,vegana,2024-10-09,2024-10-09,2024-10-13,4,OTA,EUR,287.98,287.98,False,1151.92,False,False,False,False,0
+kaczmarek nikolai,BK00213,nikolai.kaczmarek243@icloud.com,France,senza glutine,2024-10-22,2024-10-22,2024-10-25,3,direct,EUR,228.57,228.57,False,685.71,False,False,False,False,0
+kaczmarek priya,BK00545,priya.kaczmarek225@gmail.com,UAE,vegana,2025-01-03,2025-01-03,2025-01-09,6,direct,USD,253.4,233.13,False,1398.78,False,False,False,False,0
+kaczmarek silvia,BK00369,silvia.kaczmarek819@gmail.com,Japan,pesce,2024-12-06,2024-12-06,2024-12-09,3,direct,EUR,414.44,414.44,False,1243.32,True,False,False,False,0
+kaczmarek sophie,BK00344,sophie.kaczmarek639@yahoo.com,UK,vegetariana,2024-12-03,2024-12-03,2024-12-06,3,OTA,EUR,481.09,481.09,False,1443.27,True,False,False,False,0
+kaczmarek valentina,BK00211,valentina.kaczmarek173@outlook.com,UAE,vegetariana,2024-10-22,2024-10-22,2024-10-24,2,direct,EUR,208.59,208.59,False,417.18,False,False,False,False,0
+kenji kowalski,BK00756,kenji.kowalski406@yahoo.com,Germany,vegana,2025-03-07,2025-03-07,2025-03-10,3,OTA,EUR,222.33,222.33,False,666.99,False,False,False,False,0
+kenji nakamura,BK00371,kenji.nakamura915@icloud.com,USA,vegana,2024-12-06,2024-12-06,2024-12-10,4,direct,EUR,414.41,414.41,False,1657.64,True,False,False,False,0
+kenji sokolov,BK00597,kenji.sokolov661@yahoo.com,UK,vegana,2025-01-18,2025-01-18,2025-01-21,3,OTA,EUR,224.9,224.9,False,674.7,False,False,False,False,0
+kenji weber,BK00097,kenji.weber684@outlook.com,Netherlands,senza glutine,2024-09-25,2024-09-25,2024-09-28,3,OTA,EUR,460.49,460.49,False,1381.47,True,False,False,False,0
+kim laura,BK00683,laura.kim427@icloud.com,France,pesce,2025-02-13,2025-02-13,2025-02-15,2,OTA,USD,316.79,291.45,False,582.9,False,False,False,False,0
+kim lucia,BK00136,lucia.kim17@outlook.com,Switzerland,kosher,2024-10-02,2024-10-02,2024-10-04,2,OTA,EUR,251.09,251.09,False,502.18,False,False,False,False,0
+kim pierre,BK00364,pierre.kim782@gmail.com,Spain,senza glutine,2024-12-05,2024-12-05,2024-12-06,1,OTA,EUR,454.14,454.14,False,454.14,True,False,False,False,0
+kim priya,BK00251,priya.kim388@outlook.com,UK,kosher,2024-11-04,2024-11-04,2024-11-06,2,OTA,EUR,220.73,220.73,False,441.46,False,False,False,False,0
+kim sophie,BK00742,sophie.kim201@outlook.com,UK,vegana,2025-03-03,2025-03-03,2025-03-04,1,OTA,EUR,202.74,202.74,False,202.74,False,False,False,False,0
+kim yuki,BK00137,yuki.kim780@yahoo.com,Spain,pesce,2024-10-03,2024-10-03,2024-10-05,2,direct,EUR,244.63,244.63,False,489.26,False,False,False,False,0
+klaus lopez,BK00543,klaus.lopez671@yahoo.com,USA,italiana,2025-01-03,2025-01-03,2025-01-08,5,OTA,EUR,237.25,237.25,False,1186.25,False,False,False,False,0
+klaus ricci,BK00081,klaus.ricci726@gmail.com,UK,pesce,2024-09-22,2024-09-22,2024-09-25,3,direct,EUR,374.99,374.99,False,1124.97,True,False,False,False,1
+klaus wagner,BK00324,klaus.wagner587@yahoo.com,Netherlands,italiana,2024-11-28,2024-11-28,2024-12-02,4,OTA,EUR,241.57,241.57,False,966.28,False,False,False,False,0
+klaus yamamoto,BK00228,klaus.yamamoto882@icloud.com,Switzerland,vegana,2024-10-27,2024-10-27,2024-10-29,2,OTA,EUR,255.24,255.24,False,510.48,False,False,True,False,1
+klein luca,BK00293,luca.klein475@outlook.com,France,kosher,2024-11-16,2024-11-16,2024-11-20,4,direct,EUR,247.1,247.1,False,988.4,False,False,False,False,0
+klein robert,BK00145,robert.klein553@gmail.com,France,halal,2024-10-05,2024-10-05,2024-10-09,4,direct,EUR,215.65,215.65,False,862.6,False,False,False,False,1
+klein simone,BK00106,simone.klein197@yahoo.com,France,halal,2024-09-26,2024-09-26,2024-09-29,3,OTA,EUR,407.47,407.47,False,1222.41,True,False,False,False,0
+kobayashi marie,BK00672,marie.kobayashi158@icloud.com,Spain,vegetariana,2025-02-09,2025-02-09,2025-02-11,2,OTA,EUR,263.16,263.16,False,526.32,False,False,False,False,0
+kobayashi paolo,BK00505,paolo.kobayashi176@icloud.com,France,pesce,2024-12-26,2024-12-26,2024-12-30,4,OTA,EUR,441.11,441.11,False,1764.44,True,False,False,False,0
+kowalski laura,BK00157,laura.kowalski446@outlook.com,Japan,kosher,2024-10-08,2024-10-08,2024-10-10,2,direct,EUR,225.95,225.95,False,451.9,False,False,False,False,1
+kowalski sara,BK00720,sara.kowalski832@gmail.com,Germany,kosher,2025-02-24,2025-02-24,2025-02-25,1,OTA,EUR,303.64,303.64,False,303.64,False,False,False,False,0
+kumar laura,BK00739,laura.kumar796@gmail.com,UK,vegetariana,2025-03-03,2025-03-03,2025-03-05,2,direct,EUR,192.6,192.6,False,385.2,False,False,False,False,0
+kumar marco,BK00209,marco.kumar751@yahoo.com,France,italiana,2024-10-22,2024-10-22,2024-10-24,2,OTA,USD,269.64,248.07,False,496.14,False,False,False,False,0
+kumar patricia,BK00578,patricia.kumar266@gmail.com,Switzerland,kosher,2025-01-13,2025-01-13,2025-01-15,2,OTA,USD,219.73,202.15,False,404.3,False,False,False,False,0
+layla leroy,BK00741,layla.leroy716@yahoo.com,Japan,senza glutine,2025-03-03,2025-03-03,2025-03-06,3,OTA,EUR,209.58,209.58,False,628.74,False,False,False,False,0
+layla meyer,BK00645,layla.meyer851@icloud.com,UK,pesce,2025-01-31,2025-01-31,2025-02-01,1,OTA,EUR,276.87,276.87,False,276.87,False,False,False,False,0
+layla popov,BK00422,layla.popov982@yahoo.com,Germany,vegana,2024-12-15,2024-12-15,2024-12-18,3,direct,EUR,435.98,435.98,False,1307.94,True,False,False,False,1
+layla yamamoto,BK00289,layla.yamamoto533@gmail.com,Netherlands,vegana,2024-11-15,2024-11-15,2024-11-17,2,direct,EUR,200.92,200.92,False,401.84,False,False,False,False,1
+lefevre luca,BK00427,luca.lefevre147@yahoo.com,Switzerland,vegetariana,2024-12-15,2024-12-15,2024-12-19,4,OTA,USD,485.57,446.72,False,1786.88,True,False,False,False,0
+lefevre omar,BK00679,omar.lefevre234@icloud.com,France,vegana,2025-02-11,2025-02-11,2025-02-18,7,OTA,EUR,265.61,265.61,False,1859.27,False,False,False,False,0
+lefevre robert,BK00225,robert.lefevre23@gmail.com,UK,italiana,2024-10-27,2024-10-27,2024-10-28,1,OTA,EUR,240.38,240.38,False,240.38,False,False,False,False,0
+lefevre thomas,BK00420,thomas.lefevre955@icloud.com,UK,pesce,2024-12-14,2024-12-14,2024-12-16,2,direct,EUR,416.48,416.48,False,832.96,True,False,False,False,1
+leroy lucia,BK00614,lucia.leroy779@yahoo.com,UK,vegetariana,2025-01-22,2025-01-22,2025-01-25,3,OTA,EUR,246.97,246.97,False,740.91,False,False,False,False,0
+leroy marco,BK00713,marco.leroy545@outlook.com,France,pesce,2025-02-20,2025-02-20,2025-02-22,2,OTA,EUR,244.14,244.14,False,488.28,False,False,False,False,0
+leroy sophie,BK00467,sophie.leroy254@gmail.com,UAE,vegetariana,2024-12-21,2024-12-21,2024-12-25,4,direct,USD,397.92,366.09,False,1464.36,True,False,False,False,0
+lopez priya,BK00519,priya.lopez144@icloud.com,Italy,vegana,2024-12-28,2024-12-28,2024-12-29,1,OTA,EUR,397.25,397.25,False,397.25,True,False,False,False,0
+luca petrov,BK00530,luca.petrov521@yahoo.com,USA,vegetariana,2024-12-30,2024-12-30,2025-01-02,3,direct,EUR,414.7,414.7,False,1244.1,True,False,False,False,1
+luca smith,BK00476,luca.smith792@outlook.com,Spain,internazionale,2024-12-22,2024-12-22,2024-12-25,3,OTA,EUR,418.75,418.75,False,1256.25,True,False,False,False,0
+luca yamamoto,BK00173,luca.yamamoto155@gmail.com,Italy,kosher,2024-10-12,2024-10-12,2024-10-14,2,OTA,EUR,166.2,166.2,False,332.4,False,False,False,False,0
+lucia martinez,BK00389,lucia.martinez565@outlook.com,France,senza glutine,2024-12-09,2024-12-09,2024-12-15,6,OTA,EUR,408.6,408.6,False,2451.6,True,False,False,False,0
+lucia muller,BK00502,lucia.muller488@gmail.com,France,internazionale,2024-12-25,2024-12-25,2024-12-27,2,direct,USD,397.68,365.87,False,731.74,True,False,False,False,0
+lucia park,BK00278,lucia.park3@outlook.com,Germany,vegana,2024-11-11,2024-11-11,2024-11-13,2,OTA,EUR,244.04,244.04,False,488.08,False,False,False,False,1
+lucia patel,BK00697,lucia.patel6@yahoo.com,Spain,kosher,2025-02-16,2025-02-16,2025-02-20,4,OTA,EUR,232.59,232.59,False,930.36,False,False,False,False,0
+lucia suzuki,BK00696,lucia.suzuki770@yahoo.com,Switzerland,italiana,2025-02-16,2025-02-16,2025-02-17,1,OTA,EUR,258.59,258.59,False,258.59,False,False,False,False,0
+marco muller,BK00235,marco.muller813@yahoo.com,USA,senza glutine,2024-10-30,2024-10-30,2024-11-02,3,OTA,EUR,224.36,224.36,False,673.08,False,False,False,False,0
+marco park,BK00751,marco.park759@outlook.com,Spain,pesce,2025-03-05,2025-03-05,2025-03-07,2,OTA,USD,218.47,200.99,False,401.98,False,False,False,False,0
+marco petrov,BK00264,marco.petrov237@gmail.com,Germany,halal,2024-11-07,2024-11-07,2024-11-10,3,direct,EUR,264.99,264.99,False,794.97,False,False,False,False,0
+marco ricci,BK00598,marco.ricci39@outlook.com,Spain,vegetariana,2025-01-18,2025-01-18,2025-01-19,1,OTA,EUR,236.92,236.92,False,236.92,False,False,False,False,0
+marco schmidt,BK00726,marco.schmidt979@outlook.com,UAE,senza glutine,2025-02-25,2025-02-25,2025-02-26,1,direct,USD,206.05,189.57,False,189.57,False,False,False,False,1
+marco singh,BK00414,marco.singh3@gmail.com,Italy,senza glutine,2024-12-13,2024-12-13,2024-12-17,4,OTA,EUR,432.78,432.78,False,1731.12,True,False,False,False,1
+marco watanabe,BK00196,marco.watanabe973@icloud.com,Spain,senza glutine,2024-10-17,2024-10-17,2024-10-23,6,OTA,EUR,221.23,221.23,False,1327.38,False,False,False,False,1
+marco weber,BK00658,marco.weber324@yahoo.com,Spain,vegetariana,2025-02-04,2025-02-04,2025-02-05,1,OTA,USD,228.84,210.53,False,210.53,False,False,False,False,0
+marco yamamoto,BK00337,marco.yamamoto541@gmail.com,Japan,halal,2024-12-02,2024-12-02,2024-12-05,3,direct,EUR,367.16,367.16,False,1101.48,True,False,False,False,1
+maria marino,BK00605,maria.marino988@yahoo.com,USA,halal,2025-01-19,2025-01-19,2025-01-22,3,direct,EUR,213.34,213.34,False,640.02,False,False,False,False,0
+maria moreau,BK00565,maria.moreau173@gmail.com,Switzerland,pesce,2025-01-10,2025-01-10,2025-01-12,2,OTA,EUR,258.97,258.97,False,517.94,False,False,False,False,0
+maria nakamura,BK00711,maria.nakamura7@outlook.com,Switzerland,vegetariana,2025-02-20,2025-02-20,2025-02-21,1,OTA,USD,275.71,253.65,False,253.65,False,False,False,False,0
+maria petrov,BK00391,maria.petrov926@icloud.com,Netherlands,kosher,2024-12-10,2024-12-10,2024-12-12,2,OTA,EUR,464.26,464.26,False,928.52,True,False,False,False,0
+maria silva,BK00066,maria.silva496@outlook.com,Japan,halal,2024-09-20,2024-09-20,2024-09-22,2,direct,EUR,328.73,328.73,False,657.46,True,False,False,False,1
+maria watanabe,BK00388,maria.watanabe794@gmail.com,France,vegana,2024-12-09,2024-12-09,2024-12-13,4,direct,EUR,423.1,423.1,False,1692.4,True,False,False,False,0
+marie nakamura,BK00557,marie.nakamura824@icloud.com,Netherlands,senza glutine,2025-01-07,2025-01-07,2025-01-13,6,OTA,EUR,248.99,248.99,False,1493.94,False,False,False,False,0
+marie nilsson,BK00274,marie.nilsson841@gmail.com,UK,vegana,2024-11-10,2024-11-10,2024-11-13,3,OTA,EUR,282.27,282.27,False,846.81,False,False,False,False,0
+marie sharma,BK00199,marie.sharma697@yahoo.com,Japan,pesce,2024-10-18,2024-10-18,2024-10-19,1,OTA,EUR,265.31,265.31,False,265.31,False,False,False,False,0
+marie watanabe,BK00307,marie.watanabe464@outlook.com,Switzerland,halal,2024-11-21,2024-11-21,2024-11-22,1,OTA,EUR,272.6,272.6,False,272.6,False,False,False,False,1
+marie weber,BK00073,marie.weber504@gmail.com,France,halal,2024-09-21,2024-09-21,2024-09-24,3,OTA,EUR,432.93,432.93,False,1298.79,True,False,False,False,1
+marino pierre,BK00144,pierre.marino828@outlook.com,UAE,italiana,2024-10-04,2024-10-04,2024-10-05,1,OTA,USD,211.16,194.27,False,194.27,False,False,False,False,1
+marino sara,BK00681,sara.marino696@outlook.com,Germany,vegetariana,2025-02-12,2025-02-12,2025-02-13,1,direct,EUR,199.2,199.2,False,199.2,False,False,False,False,1
+marino thomas,BK00544,thomas.marino615@outlook.com,USA,kosher,2025-01-03,2025-01-03,2025-01-07,4,OTA,EUR,272.64,272.64,False,1090.56,False,False,False,False,0
+marino valentina,BK00560,valentina.marino254@outlook.com,Switzerland,vegetariana,2025-01-07,2025-01-07,2025-01-08,1,OTA,USD,249.18,229.25,False,229.25,False,False,False,False,0
+marino william,BK00336,william.marino224@icloud.com,Spain,kosher,2024-12-02,2024-12-02,2024-12-04,2,direct,EUR,444.03,444.03,False,888.06,True,False,False,False,0
+martinez olivia,BK00370,olivia.martinez497@icloud.com,Switzerland,kosher,2024-12-06,2024-12-06,2024-12-09,3,OTA,USD,438.37,403.3,False,1209.9,True,False,False,False,1
+martinez valentina,BK00205,valentina.martinez539@outlook.com,Netherlands,vegetariana,2024-10-20,2024-10-20,2024-10-24,4,OTA,EUR,205.91,205.91,False,823.64,False,False,False,False,0
+matteo meyer,BK00497,matteo.meyer605@outlook.com,UAE,kosher,2024-12-25,2024-12-25,2024-12-28,3,direct,USD,422.75,388.93,False,1166.79,True,False,False,False,0
+matteo moreau,BK00141,matteo.moreau200@yahoo.com,USA,halal,2024-10-03,2024-10-03,2024-10-06,3,OTA,EUR,291.84,291.84,False,875.52,False,False,False,False,0
+matteo romano,BK00105,matteo.romano756@yahoo.com,USA,internazionale,2024-09-26,2024-09-26,2024-09-30,4,OTA,USD,405.61,373.16,False,1492.64,True,False,False,False,0
+matteo rossi,BK00126,matteo.rossi680@gmail.com,Switzerland,pesce,2024-09-29,2024-09-29,2024-10-01,2,direct,USD,401.55,369.43,False,738.86,True,False,False,False,0
+matteo schmidt,BK00034,matteo.schmidt327@outlook.com,UK,vegana,2024-09-15,2024-09-15,2024-09-20,5,direct,EUR,381.4,381.4,False,1907.0,True,False,False,False,0
+matteo sharma,BK00404,matteo.sharma779@icloud.com,Italy,kosher,2024-12-12,2024-12-12,2024-12-17,5,OTA,EUR,505.92,505.92,False,2529.6,True,False,False,False,1
+moreau omar,BK00710,omar.moreau192@gmail.com,Japan,vegana,2025-02-19,2025-02-19,2025-02-20,1,direct,EUR,218.77,218.77,False,218.77,False,False,False,False,1
+moreau sara,BK00690,sara.moreau393@outlook.com,France,vegana,2025-02-14,2025-02-14,2025-02-17,3,OTA,EUR,215.71,215.71,False,647.13,False,False,False,False,1
+moreau youssef,BK00042,youssef.moreau120@gmail.com,Germany,pesce,2024-09-16,2024-09-16,2024-09-18,2,OTA,EUR,422.64,422.64,False,845.28,True,False,False,False,0
+muller omar,BK00219,omar.muller831@gmail.com,UAE,italiana,2024-10-24,2024-10-24,2024-10-26,2,OTA,EUR,300.39,300.39,False,600.78,False,False,False,False,0
+muller paolo,BK00096,paolo.muller373@icloud.com,UK,vegetariana,2024-09-24,2024-09-24,2024-10-01,7,OTA,USD,428.01,393.77,False,2756.39,True,False,False,False,0
+muller sara,BK00025,sara.muller965@yahoo.com,UAE,italiana,2024-09-14,2024-09-14,2024-09-17,3,OTA,EUR,428.07,428.07,False,1284.21,True,False,False,False,1
+muller silvia,BK00677,silvia.muller198@gmail.com,UK,pesce,2025-02-10,2025-02-10,2025-02-13,3,OTA,USD,232.75,214.13,False,642.39,False,False,False,False,0
+nakamura valentina,BK00346,valentina.nakamura920@yahoo.com,Switzerland,senza glutine,2024-12-04,2024-12-04,2024-12-05,1,OTA,EUR,509.24,509.24,False,509.24,True,False,False,False,0
+nikolai sokolov,BK00130,nikolai.sokolov938@icloud.com,Spain,senza glutine,2024-09-30,2024-09-30,2024-10-01,1,direct,USD,361.48,332.56,False,332.56,True,False,False,False,0
+nikolai yamamoto,BK00316,nikolai.yamamoto640@outlook.com,UK,kosher,2024-11-27,2024-11-27,2024-11-28,1,OTA,EUR,254.51,254.51,False,254.51,False,False,False,False,1
+nilsson olivia,BK00379,olivia.nilsson303@icloud.com,UK,internazionale,2024-12-07,2024-12-07,2024-12-13,6,direct,EUR,461.89,461.89,False,2771.34,True,False,False,False,1
+nilsson robert,BK00055,robert.nilsson403@outlook.com,UAE,vegana,2024-09-18,2024-09-18,2024-09-20,2,OTA,EUR,499.25,499.25,False,998.5,True,False,False,False,0
+nilsson sophie,BK00000,sophie.nilsson169@gmail.com,Spain,pesce,2024-09-10,2024-09-10,2024-09-14,4,OTA,EUR,385.71,385.71,False,1542.84,True,False,False,False,0
+novak omar,BK00443,omar.novak133@icloud.com,Spain,pesce,2024-12-18,2024-12-18,2024-12-19,1,OTA,EUR,404.25,404.25,False,404.25,True,False,False,False,0
+novak sara,BK00280,sara.novak944@outlook.com,France,kosher,2024-11-13,2024-11-13,2024-11-16,3,direct,EUR,225.19,225.19,False,675.57,False,False,False,False,0
+novak sophie,BK00349,sophie.novak514@gmail.com,Spain,internazionale,2024-12-04,2024-12-04,2024-12-10,6,direct,EUR,372.12,372.12,False,2232.72,True,False,False,False,0
+novak valentina,BK00155,valentina.novak29@outlook.com,USA,italiana,2024-10-07,2024-10-07,2024-10-09,2,OTA,EUR,261.11,261.11,False,522.22,False,False,False,False,0
+nowak simone,BK00229,simone.nowak343@outlook.com,Germany,internazionale,2024-10-27,2024-10-27,2024-10-30,3,OTA,EUR,237.28,237.28,False,711.84,False,False,False,False,1
+nowak william,BK00468,william.nowak869@outlook.com,UK,vegetariana,2024-12-21,2024-12-21,2024-12-22,1,direct,EUR,387.57,387.57,False,387.57,True,False,False,False,0
+olga romano,BK00022,olga.romano668@outlook.com,Germany,senza glutine,2024-09-13,2024-09-13,2024-09-15,2,direct,EUR,437.77,437.77,False,875.54,True,False,False,False,0
+olga silva,BK00321,olga.silva1@yahoo.com,UAE,italiana,2024-11-28,2024-11-28,2024-12-01,3,direct,EUR,204.15,204.15,False,612.45,False,False,False,False,0
+olga suzuki,BK00232,olga.suzuki286@outlook.com,France,internazionale,2024-10-29,2024-10-29,2024-10-31,2,OTA,EUR,230.06,230.06,False,460.12,False,False,False,False,1
+olga wagner,BK00265,olga.wagner545@gmail.com,UK,vegetariana,2024-11-08,2024-11-08,2024-11-09,1,OTA,EUR,211.05,211.05,False,211.05,False,False,False,False,0
+olga yamamoto,BK00169,olga.yamamoto454@gmail.com,Germany,senza glutine,2024-10-11,2024-10-11,2024-10-12,1,OTA,EUR,266.92,266.92,False,266.92,False,False,False,False,0
+olivia park,BK00059,olivia.park424@icloud.com,UAE,kosher,2024-09-18,2024-09-18,2024-09-21,3,OTA,USD,430.84,396.37,False,1189.11,True,False,False,False,0
+olivia wagner,BK00591,olivia.wagner989@gmail.com,Netherlands,internazionale,2025-01-17,2025-01-17,2025-01-18,1,OTA,EUR,270.81,270.81,False,270.81,False,False,False,False,0
+olivia weber,BK00484,olivia.weber558@yahoo.com,Spain,halal,2024-12-24,2024-12-24,2024-12-26,2,OTA,EUR,448.7,448.7,False,897.4,True,False,False,False,1
+omar sokolov,BK00354,omar.sokolov388@outlook.com,Japan,pesce,2024-12-04,2024-12-04,2024-12-08,4,OTA,EUR,508.61,508.61,False,2034.44,True,False,False,False,0
+paolo tanaka,BK00581,paolo.tanaka523@gmail.com,Switzerland,vegetariana,2025-01-14,2025-01-14,2025-01-18,4,OTA,EUR,210.98,210.98,False,843.92,False,False,False,False,0
+paolo wagner,BK00256,paolo.wagner650@icloud.com,France,pesce,2024-11-06,2024-11-06,2024-11-12,6,OTA,USD,186.22,171.32,False,1027.92,False,False,False,False,0
+park simone,BK00317,simone.park84@gmail.com,Netherlands,vegana,2024-11-27,2024-11-27,2024-11-30,3,OTA,USD,274.16,252.23,False,756.69,False,False,False,False,1
+patricia petrov,BK00762,patricia.petrov376@icloud.com,Switzerland,kosher,2025-03-10,2025-03-10,2025-03-11,1,direct,EUR,273.78,273.78,False,273.78,False,False,False,False,1
+patricia singh,BK00212,patricia.singh474@outlook.com,Netherlands,italiana,2024-10-22,2024-10-22,2024-10-23,1,OTA,EUR,238.97,238.97,False,238.97,False,False,False,False,0
+patricia tanaka,BK00673,patricia.tanaka442@yahoo.com,Spain,vegetariana,2025-02-09,2025-02-09,2025-02-11,2,OTA,USD,261.36,240.45,False,480.9,False,False,False,False,1
+petrov pierre,BK00049,pierre.petrov777@yahoo.com,Spain,halal,2024-09-17,2024-09-17,2024-09-21,4,direct,EUR,452.1,452.1,False,1808.4,True,False,False,False,1
+petrov robert,BK00462,robert.petrov741@icloud.com,USA,vegetariana,2024-12-20,2024-12-20,2024-12-23,3,OTA,EUR,378.03,378.03,False,1134.09,True,False,False,False,0
+petrov silvia,BK00057,silvia.petrov661@yahoo.com,Germany,internazionale,2024-09-18,2024-09-18,2024-09-22,4,OTA,USD,421.04,387.36,False,1549.44,True,False,False,False,0
+petrov thomas,BK00630,thomas.petrov504@yahoo.com,Japan,senza glutine,2025-01-26,2025-01-26,2025-01-29,3,direct,EUR,245.19,245.19,False,735.57,False,False,False,False,0
+petrov william,BK00134,william.petrov236@outlook.com,Japan,vegetariana,2024-10-02,2024-10-02,2024-10-04,2,direct,EUR,240.53,240.53,False,481.06,False,False,False,False,0
+pierre romano,BK00303,pierre.romano220@yahoo.com,USA,halal,2024-11-21,2024-11-21,2024-11-22,1,OTA,EUR,270.17,270.17,False,270.17,False,False,False,False,0
+pierre smith,BK00223,pierre.smith837@outlook.com,UK,kosher,2024-10-26,2024-10-26,2024-10-31,5,OTA,EUR,228.7,228.7,False,1143.5,False,False,False,False,0
+pierre yamamoto,BK00431,pierre.yamamoto861@yahoo.com,Switzerland,internazionale,2024-12-15,2024-12-15,2024-12-19,4,OTA,EUR,463.02,463.02,False,1852.08,True,False,False,False,0
+popov valentina,BK00456,valentina.popov859@yahoo.com,Japan,halal,2024-12-20,2024-12-20,2024-12-22,2,direct,EUR,384.75,384.75,False,769.5,True,False,False,False,0
+priya schmidt,BK00168,priya.schmidt464@outlook.com,UAE,vegana,2024-10-11,2024-10-11,2024-10-17,6,OTA,EUR,224.57,224.57,False,1347.42,False,False,False,False,0
+priya silva,BK00466,priya.silva103@gmail.com,Germany,vegetariana,2024-12-21,2024-12-21,2024-12-23,2,OTA,USD,502.41,462.22,False,924.44,True,False,False,False,0
+priya singh,BK00118,priya.singh111@outlook.com,Switzerland,vegana,2024-09-27,2024-09-27,2024-09-28,1,OTA,EUR,431.14,431.14,False,431.14,True,False,False,False,0
+priya smith,BK00593,priya.smith541@icloud.com,Italy,vegana,2025-01-17,2025-01-17,2025-01-18,1,direct,USD,216.11,198.82,False,198.82,False,False,False,False,0
+priya weber,BK00548,priya.weber729@icloud.com,France,senza glutine,2025-01-04,2025-01-04,2025-01-06,2,OTA,USD,272.43,250.64,False,501.28,False,False,False,False,0
+ricci silvia,BK00165,silvia.ricci26@icloud.com,Italy,pesce,2024-10-10,2024-10-10,2024-10-12,2,direct,EUR,220.19,220.19,False,440.38,False,False,False,False,0
+robert schmidt,BK00609,robert.schmidt739@gmail.com,Switzerland,vegana,2025-01-20,2025-01-20,2025-01-23,3,OTA,EUR,272.8,272.8,False,818.4,False,False,False,False,1
+romano simone,BK00123,simone.romano453@outlook.com,Switzerland,kosher,2024-09-28,2024-09-28,2024-10-04,6,OTA,EUR,346.14,346.14,False,2076.84,True,False,False,False,1
+romano thomas,BK00115,thomas.romano135@outlook.com,USA,italiana,2024-09-27,2024-09-27,2024-10-02,5,OTA,EUR,453.88,453.88,False,2269.4,True,False,False,False,0
+rossi silvia,BK00149,silvia.rossi417@outlook.com,UAE,halal,2024-10-05,2024-10-05,2024-10-06,1,OTA,EUR,238.44,238.44,False,238.44,False,False,False,False,0
+sara schmidt,BK00109,sara.schmidt790@icloud.com,Netherlands,senza glutine,2024-09-26,2024-09-26,2024-09-29,3,OTA,USD,491.87,452.52,False,1357.56,True,False,False,False,1
+sara suzuki,BK00327,sara.suzuki16@icloud.com,Netherlands,vegana,2024-11-30,2024-11-30,2024-12-02,2,direct,EUR,219.13,219.13,False,438.26,False,False,False,False,0
+schmidt silvia,BK00222,silvia.schmidt398@yahoo.com,Spain,senza glutine,2024-10-26,2024-10-26,2024-10-28,2,OTA,EUR,227.58,227.58,False,455.16,False,False,False,False,0
+schmidt simone,BK00003,simone.schmidt639@outlook.com,Japan,internazionale,2024-09-10,2024-09-10,2024-09-15,5,OTA,EUR,475.99,475.99,False,2379.95,True,False,False,False,0
+sharma silvia,BK00074,silvia.sharma800@icloud.com,Switzerland,italiana,2024-09-21,2024-09-21,2024-09-25,4,direct,EUR,436.84,436.84,False,1747.36,True,False,False,False,0
+silva silvia,BK00524,silvia.silva565@gmail.com,Germany,pesce,2024-12-29,2024-12-29,2025-01-02,4,direct,EUR,404.32,404.32,False,1617.28,True,False,False,False,0
+silvia tanaka,BK00507,silvia.tanaka14@yahoo.com,Netherlands,vegana,2024-12-26,2024-12-26,2024-12-29,3,direct,EUR,348.61,348.61,False,1045.83,True,False,True,False,1
+silvia watanabe,BK00328,silvia.watanabe970@icloud.com,UAE,kosher,2024-11-30,2024-11-30,2024-12-02,2,direct,USD,300.67,276.62,False,553.24,False,False,False,False,1
+silvia yamamoto,BK00245,silvia.yamamoto45@gmail.com,Spain,italiana,2024-11-02,2024-11-02,2024-11-05,3,direct,EUR,201.33,201.33,False,603.99,False,False,False,False,0
+simone smith,BK00357,simone.smith280@gmail.com,Germany,vegetariana,2024-12-05,2024-12-05,2024-12-09,4,OTA,EUR,440.38,440.38,False,1761.52,True,False,False,False,0
+singh youssef,BK00407,youssef.singh791@icloud.com,France,pesce,2024-12-12,2024-12-12,2024-12-18,6,direct,USD,501.37,461.26,False,2767.56,True,False,False,False,0
+smith thomas,BK00517,thomas.smith130@outlook.com,Spain,halal,2024-12-28,2024-12-28,2024-12-29,1,direct,USD,425.55,391.51,False,391.51,True,False,False,False,1
+sophie tanaka,BK00610,sophie.tanaka567@outlook.com,Japan,internazionale,2025-01-21,2025-01-21,2025-01-25,4,OTA,USD,190.66,175.41,False,701.64,False,False,False,False,1
+sophie weber,BK00133,sophie.weber133@yahoo.com,Germany,halal,2024-09-30,2024-09-30,2024-10-02,2,OTA,EUR,451.96,451.96,False,903.92,True,False,False,False,0
+suzuki valentina,BK00091,valentina.suzuki449@yahoo.com,France,italiana,2024-09-23,2024-09-23,2024-09-26,3,direct,USD,405.6,373.15,False,1119.45,True,False,False,False,0
+valentina weber,BK00318,valentina.weber990@gmail.com,Netherlands,senza glutine,2024-11-27,2024-11-27,2024-12-01,4,direct,EUR,290.73,290.73,False,1162.92,False,False,False,False,1
+watanabe youssef,BK00095,youssef.watanabe191@yahoo.com,UK,pesce,2024-09-24,2024-09-24,2024-09-27,3,direct,USD,424.14,390.21,False,1170.63,True,False,False,False,1
+yamamoto yuki,BK00612,yuki.yamamoto235@yahoo.com,USA,halal,2025-01-21,2025-01-21,2025-01-24,3,OTA,EUR,243.14,243.14,False,729.42,False,False,False,False,0
