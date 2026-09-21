@@ -1,0 +1,8 @@
+# Dipendenze extra per lo sviluppo/esecuzione del notebook di esplorazione
+# (notebooks/exploration.ipynb). Non necessarie per eseguire gli script in
+# scripts/: quelle restano in requirements.txt.
+-r requirements.txt
+jupyter
+notebook
+ipykernel
+nbconvert
