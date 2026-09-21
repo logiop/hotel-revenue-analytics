@@ -1,5 +1,9 @@
 # Hotel Revenue Analytics — Revenue Management & Guest Retention
 
+![Effetto della promo sulla quota di booking diretti: il confronto aggregato lo sovrastima di circa il 60%](charts/chart4_promo_effect.png)
+
+*Il confronto grezzo pre/post promo (arancione) sovrastima l'effetto reale perché confonde la promo con la stagionalità — un caso da manuale di paradosso di Simpson. Le stime corrette per stagione (blu) mostrano l'effetto vero: +5,7/+6,3 punti percentuali.*
+
 Analisi end-to-end su un anno di prenotazioni di un hotel di lusso fittizio (60 camere, 24 mesi di storico): pulizia dati, revenue management (RevPAR/ADR, scomposizione stagionale), un modello di classificazione per prevedere il ritorno degli ospiti, e un test causale corretto per un confondente stagionale (paradosso di Simpson) sull'effetto di una promo.
 
 Il taglio è volutamente hospitality invece che e-commerce: lavoro come Chef de Rang in hotel di lusso (Splendido, A Belmond Hotel — LVMH — e in precedenza La Posta Vecchia, Pellicano Hotels), e questo progetto nasce per applicare l'analisi statistica a un dominio che conosco da dentro, non solo sulla carta.
