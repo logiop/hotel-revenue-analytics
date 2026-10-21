@@ -4,7 +4,7 @@ Analisi end-to-end su un anno di prenotazioni di un hotel di lusso fittizio (60 
 
 Il taglio è volutamente hospitality invece che e-commerce: lavoro come Chef de Rang in hotel di lusso (Splendido, A Belmond Hotel — LVMH — e in precedenza La Posta Vecchia, Pellicano Hotels), e questo progetto nasce per applicare l'analisi statistica a un dominio che conosco da dentro, non solo sulla carta.
 
-**Il dataset è sintetico e generato da codice** (vedi sotto), con problemi di data quality e trappole statistiche inserite di proposito per rendere l'esercizio realistico: omonimie tra ospiti, valute miste, date corrotte, e un vero confondente stagionale sull'effetto di una promo.
+**Il dataset è sintetico e generato da codice** (vedi sotto), con problemi di data quality e trappole statistiche inserite di proposito per rendere l'esercizio realistico: omonimie tra ospiti, valute miste, date corrotte, e un vero confondente stagionale sull'effetto di una promo. Nomi, email e dati degli ospiti sono generati casualmente: non corrispondono a persone reali né a dati di hotel reali.
 
 ## Cosa contiene il repo
 

@@ -111,7 +111,7 @@ ax0.plot(monthly["month"], monthly["ADR"], color=COL_ADR, lw=2, marker="o",
 ax0.plot(monthly["month"], monthly["RevPAR"], color=COL_REVPAR, lw=2, marker="o",
          markersize=4, label="RevPAR (ricavo per camera disponibile)")
 
-ax0.set_title("ADR e RevPAR mensili - Splendido fittizio, 60 camere\n"
+ax0.set_title("ADR e RevPAR mensili - hotel di lusso fittizio, 60 camere\n"
               "(sfondo grigio = mesi di alta stagione: giu-set e dic)",
               color=COL_TEXT, fontsize=12, loc="left", pad=12)
 ax0.set_ylabel("EUR / camera / notte", color=COL_MUTED, fontsize=9)
